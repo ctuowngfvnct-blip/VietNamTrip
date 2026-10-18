@@ -13069,7 +13069,8 @@
       },
       "id": "tinh34.21",
       "properties": {
-        "matinh": "26"
+        "matinh": "26",
+        "id": "lam-dong"
       },
       "type": "Feature"
     }
