@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Viet Nam Map</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@turf/turf@6/turf.min.js"></script>
+  <script src="provinces-geo.js"></script>
+  
+  <style>
+    html, body { margin: 0; height: 100%; }
+    #map { height: 100%; background: #fff; }
+    .nhan-tinh {
+      font: 600 11px Arial, sans-serif; color: #333;
+      white-space: nowrap; pointer-events: none;
+      transform: translate(-50%, -50%);
+      width: auto !important; height: auto !important;
+      text-shadow: 0 0 2px #fff, 0 0 2px #fff;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="map"></div>
+    <script>
+    // Tạo bản đồ trống
+    const map = L.map('map', { attributionControl: false });
+    map.fitBounds([[8.4, 102.1], [23.4, 109.5]]);
+
+    // Sửa lỗi dữ liệu gốc: bản ghi mã 31 bị ghi nhầm là "Lạng Sơn"
+    PROVINCES_GEO.features.forEach(f => {
+      if (f.properties.Ma === '31') f.properties.TinhThanh = 'Đồng Tháp';
+    });
+
+    // Ghi tên tỉnh
+    function veTenTinh(data) {
+      data.features.forEach(f => {
+        const diem = turf.pointOnFeature(f);          // điểm nằm chắc chắn trong tỉnh
+        const [lng, lat] = diem.geometry.coordinates; // GeoJSON lưu [kinh độ, vĩ độ]
+
+        L.marker([lat, lng], {                        // Leaflet dùng [vĩ độ, kinh độ]
+          icon: L.divIcon({ className: 'nhan-tinh', html: f.properties.TinhThanh }),
+          interactive: false
+        }).addTo(map);
+      });
+    }
+    veTenTinh(PROVINCES_GEO);
+
+    PROVINCES_GEO.features.forEach(f => {
+      console.log(f.properties.Ma, f.properties.TinhThanh);
+    });
+
+    const MA_TO_ID = {
+     '32': 'an_giang',
+     '02': 'bac_ninh',
+     '34': 'ca_mau',
+     '33': 'can_tho',
+     '07': 'cao_bang',
+     '21': 'da_nang',
+     '25': 'dak_lak',
+     '13': 'dien_bien',
+     '28': 'dong_nai',
+     '31': 'dong_thap',
+     '24': 'gia_lai',
+     '01': 'ha_noi',
+     '18': 'ha_tinh',
+     '04': 'hai_phong',
+     '20': 'hue',
+     '05': 'hung_yen',
+     '23': 'khanh_hoa',
+     '14': 'lai_chau',
+     '26': 'lam_dong',
+     '11': 'lang_son',
+     '09': 'lao_cai',
+     '17': 'nghe_an',
+     '06': 'ninh_binh',
+     '12': 'phu_tho',
+     '22': 'quang_ngai',
+     '03': 'quang_ninh',
+     '19': 'quang_tri',
+     '15': 'son_la',
+     '27': 'tay_ninh',
+     '10': 'thai_nguyen',
+     '16': 'thanh_hoa',
+     '79': 'ho_chi_minh_city',
+     '08': 'tuyen_quang',
+     '30': 'vinh_long',
+   };
+
+    PROVINCES_GEO.features.forEach(f => {
+     f.properties.id = MA_TO_ID[f.properties.Ma];
+   });
+
+   console.log(PROVINCES_GEO.features.map(f => f.properties.id));
+
+    let PROVINCES_INFO = [];
+    const infoById = {};
+
+    fetch('provinces-data.json')
+      .then(res => res.json())
+      .then(data => {
+       PROVINCES_INFO = data;
+       PROVINCES_INFO.forEach(p => {
+        infoById[p.id] = p;
+       });
+       console.log('Đã tải xong dữ liệu tỉnh');
+     });
+
+    const layerById = {};
+
+    L.geoJSON(PROVINCES_GEO, {
+      style: { fillColor: '#d4d4d4', fillOpacity: 1, color: '#7a7a7a', weight: 1 },
+      onEachFeature: (f, layer) => {
+        layerById[f.properties.id] = layer;
+
+        // Bấm vào tỉnh thì in id ra console
+        layer.on('click', () => { console.log(f.properties.id) });
+      }
+    }).addTo(map);
+
+    // Tô màu tỉnh theo id
+    function toMauTinh(id, color) {
+      layerById[id].setStyle({ fillColor: color });
+    }
+
+    function moKhoaTinh(id) {
+      const color = infoById[id].map_color;
+      toMauTinh(id, color);
+    }
+  </script>
+</body>
+</html>
