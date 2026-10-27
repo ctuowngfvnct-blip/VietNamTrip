@@ -1,0 +1,58 @@
+
+[
+  {
+    "id": "puppy_farm",
+    "name": "Puppy Farm",
+    "province_id": "lam_dong",
+    "type": "attraction",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": "07:30-17:30",
+      "tue": "07:30-17:30",
+      "wed": "07:30-17:30",
+      "thu": "07:30-17:30",
+      "fri": "07:30-17:30",
+      "sat": "07:30-17:30",
+      "sun": "07:30-17:30"
+    },
+    "visit_minutes": {
+      "short": 120,
+      "long": 180
+    },
+    "price_vnd": 120000,
+    "tags": ["puppy", "animal-farm", "photography", "agriculture"],
+    "difficulty": "easy",
+    "popularity": null,
+    "source": "https://lamdongtours.com/dia-diem-du-lich-da-lat/check-in/nong-trai-cun-puppy-farm-da-lat/",
+    "last_verified": "2026-10-18"
+  },
+
+ {
+        "id": "datanla_waterfall",
+        "name": "Datanla Waterfall",
+        "province_id": "lam_dong",
+        "type": "attraction",
+        "lat": null,
+        "lon": null,
+        "opening_hours": {
+        "mon": "07:00-17:00",
+        "tue": "07:00-17:00",
+        "wed": "07:00-17:00",
+        "thu": "07:00-17:00",
+        "fri": "07:00-17:00",
+        "sat": "07:00-17:00",
+        "sun": "07:00-17:00"
+        },
+        "visit_minutes": {
+        "short": 60,
+        "long": 120
+        },
+        "price_vnd": 30000,
+        "tags": ["waterfall", "nature", "adventure", "photography"],
+        "difficulty": "medium",
+        "popularity": null,
+        "source": "https://visitlamdong.vn/vi/thacdatanla",
+        "last_verified": null
+ }
+]

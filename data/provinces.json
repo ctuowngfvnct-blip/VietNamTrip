@@ -1,0 +1,477 @@
+[
+{
+    "id": "lam_dong",
+    "name": "Lâm Đồng",
+    "terrain_primary": "mountain",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [11.940, 108.440],
+    "bbox": [107.203486, 10.486296, 108.96677, 12.813424],
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "tuyen_quang",
+    "name": "Tuyên Quang",
+    "terrain_primary": "mountain",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [21.800, 105.200],
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "cao_bang",
+    "name": "Cao Bằng",
+    "terrain_primary": "mountain",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [22.667, 106.250],
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "lai_chau",
+    "name": "Lai Châu",
+    "terrain_primary": "mountain",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [22.333, 103.833],
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "lao_cai",
+    "name": "Lào Cai",
+    "terrain_primary": "mountain",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [22.500, 103.917],
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "thai_nguyen",
+    "name": "Thái Nguyên",
+    "terrain_primary": "mountain",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [21.592, 105.844],
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "dien_bien",
+    "name": "Điện Biên",
+    "terrain_primary": "mountain",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [21.367, 103.033],
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "lang_son",
+    "name": "Lạng Sơn",
+    "terrain_primary": "mountain",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [21.867, 106.783],
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "son_la",
+    "name": "Sơn La",
+    "terrain_primary": "mountain",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [21.333, 103.917],
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "phu_tho",
+    "name": "Phú Thọ",
+    "terrain_primary": "mountain",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [21.333, 105.000],
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "bac_ninh",
+    "name": "Bắc Ninh",
+    "terrain_primary": "plains",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [21.167, 106.083],
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "quang_ninh",
+    "name": "Quảng Ninh",
+    "terrain_primary": "coastal",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [20.967, 107.083],
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "ha_noi",
+    "name": "Hà Nội",
+    "terrain_primary": "plains",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [21.033, 105.850],
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "hai_phong",
+    "name": "Hải Phòng",
+    "terrain_primary": "coastal",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [20.833, 106.583],
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "hung_yen",
+    "name": "Hưng Yên",
+    "terrain_primary": "plains",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [20.633, 106.050],
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "ninh_binh",
+    "name": "Ninh Bình",
+    "terrain_primary": "plains",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [20.267, 105.950],
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "thanh_hoa",
+    "name": "Thanh Hóa",
+    "terrain_primary": "plains",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [20.000, 105.833],
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "nghe_an",
+    "name": "Nghệ An",
+    "terrain_primary": "plains",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [19.833, 105.750],
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "ha_tinh",
+    "name": "Hà Tĩnh",
+    "terrain_primary": "plains",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [18.333, 105.917],
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "quang_tri",
+    "name": "Quảng Trị",
+    "terrain_primary": "plains",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [16.750, 107.200],
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "hue",
+    "name": "Huế",
+    "terrain_primary": "plains",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [16.467, 107.583],
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "da_nang",
+    "name": "Đà Nẵng",
+    "terrain_primary": "plains",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [16.067, 108.233],
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "quang_ngai",
+    "name": "Quảng Ngãi",
+    "terrain_primary": "plains",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [15.117, 108.833],
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "gia_lai",
+    "name": "Gia Lai",
+    "terrain_primary": "plains",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [14.750, 108.000],
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "dak_lak",
+    "name": "Đắk Lắk",
+    "terrain_primary": "plains",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": null,
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "khanh_hoa",
+    "name": "Khánh Hòa",
+    "terrain_primary": "plains",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [12.233, 109.183],
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "dong_nai",
+    "name": "Đồng Nai",
+    "terrain_primary": "plains",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [10.967, 106.833],
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "tay_ninh",
+    "name": "Tây Ninh",
+    "terrain_primary": "plains",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [11.333, 106.167],
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "ho_chi_minh_city",
+    "name": "Hồ Chí Minh City",
+    "terrain_primary": "plains",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [10.823, 106.630],
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "dong_thap",
+    "name": "Đồng Tháp",
+    "terrain_primary": "plains",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [10.417, 105.667],
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "an_giang",
+    "name": "An Giang",
+    "terrain_primary": "plains",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [10.567, 105.133],
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "vinh_long",
+    "name": "Vĩnh Long",
+    "terrain_primary": "plains",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [10.250, 105.917],
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "can_tho",
+    "name": "Cần Thơ",
+    "terrain_primary": "plains",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [10.033, 105.783],
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+},
+
+{
+    "id": "ca_mau",
+    "name": "Cà Mau",
+    "terrain_primary": "plains",
+    "terrain_secondary": null,
+    "map_color": null,
+    "center": [9.167, 105.167],
+    "bbox": null,
+    "puzzle_image": null,
+    "is_demo": true,
+    "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
+    "last_verified": "2026-10-18"
+}
+]

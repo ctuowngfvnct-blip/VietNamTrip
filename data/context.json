@@ -1,0 +1,13 @@
+
+[
+  {
+    "province_id": "lam_dong",
+    "month": 1,
+    "avg_temp_c": 17.5,
+    "rain_mm": 15,
+    "season": null,
+    "storm_flood_risk": null,
+    "crowd_level": null,
+    "price_level": null
+  }
+]
