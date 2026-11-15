@@ -1,0 +1,1 @@
+console.log('VietNamTrip.Core module loaded');

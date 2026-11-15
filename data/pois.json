@@ -24,35 +24,237 @@
     "tags": ["puppy", "animal-farm", "photography", "agriculture"],
     "difficulty": "easy",
     "popularity": null,
-    "source": "https://lamdongtours.com/dia-diem-du-lich-da-lat/check-in/nong-trai-cun-puppy-farm-da-lat/",
+    "source": "https://lamdongtours.com/dia-diem-du-lich-da-lat/check-in/nong-trai-cun-puppy-farm-da-lat",
     "last_verified": "2026-10-18"
   },
 
- {
-        "id": "datanla_waterfall",
-        "name": "Datanla Waterfall",
-        "province_id": "lam_dong",
-        "type": "attraction",
-        "lat": null,
-        "lon": null,
-        "opening_hours": {
-        "mon": "07:00-17:00",
-        "tue": "07:00-17:00",
-        "wed": "07:00-17:00",
-        "thu": "07:00-17:00",
-        "fri": "07:00-17:00",
-        "sat": "07:00-17:00",
-        "sun": "07:00-17:00"
-        },
-        "visit_minutes": {
-        "short": 60,
-        "long": 120
-        },
-        "price_vnd": 30000,
-        "tags": ["waterfall", "nature", "adventure", "photography"],
-        "difficulty": "medium",
-        "popularity": null,
-        "source": "https://visitlamdong.vn/vi/thacdatanla",
-        "last_verified": null
- }
+  {
+    "id": "vuon_hoa_da_lat",
+    "name": "Vườn hoa thành phố Đà Lạt",
+    "province_id": "lam_dong",
+    "type": "attraction",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": "07:00-18:00",
+      "tue": "07:00-18:00",
+      "wed": "07:00-18:00",
+      "thu": "07:00-18:00",
+      "fri": "07:00-18:00",
+      "sat": "07:00-18:00",
+      "sun": "07:00-18:00"
+    },
+    "visit_minutes": {
+      "short": 60,
+      "long": 90
+    },
+    "price_vnd": 30000,
+    "tags": ["flower-garden", "photography", "nature", "sightseeing"],
+    "difficulty": "easy",
+    "popularity": null,
+    "source": "https://dalat.vn/vi/vuonhoathanhpho",
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "langbiang",
+    "name": "Khu du lịch Langbiang",
+    "province_id": "lam_dong",
+    "type": "attraction",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": "07:00-17:00",
+      "tue": "07:00-17:00",
+      "wed": "07:00-17:00",
+      "thu": "07:00-17:00",
+      "fri": "07:00-17:00",
+      "sat": "07:00-17:00",
+      "sun": "07:00-17:00"
+    },
+    "visit_minutes": {
+      "short": 60,
+      "long": 120
+    },
+    "price_vnd": 30000,
+    "tags": ["mountain", "sightseeing", "nature", "photography"],
+    "difficulty": "easy",
+    "popularity": null,
+    "source": "https://dalat.vn/vi/langbiang",
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "nam_nuong",
+    "name": "Nậm Nướng Đà Lạt",
+    "province_id": "lam_dong",
+    "type": "restaurant",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": "16:00-23:00",
+      "tue": "16:00-23:00",
+      "wed": "16:00-23:00",
+      "thu": "16:00-23:00",
+      "fri": "16:00-23:00",
+      "sat": "16:00-23:00",
+      "sun": "16:00-23:00"
+    },
+    "visit_minutes": {
+      "short": 60,
+      "long": 120
+    },
+    "price_vnd": null,
+    "tags": ["restaurant", "bbq", "grilled-food", "local-food"],
+    "difficulty": "easy",
+    "popularity": null,
+    "source": "https://visitlamdong.vn/vi/namnuongdalat",
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "bina_bina",
+    "name": "Bina Bina - Nhà hàng hấp thủy nhiệt",
+    "province_id": "lam_dong",
+    "type": "restaurant",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": "11:00-14:00,17:00-22:00",
+      "tue": "11:00-14:00,17:00-22:00",
+      "wed": "11:00-14:00,17:00-22:00",
+      "thu": "11:00-14:00,17:00-22:00",
+      "fri": "11:00-14:00,17:00-22:00",
+      "sat": "11:00-14:00,17:00-22:00",
+      "sun": "11:00-14:00,17:00-22:00"
+    },
+    "visit_minutes": {
+      "short": 60,
+      "long": 120
+    },
+    "price_vnd": null,
+    "tags": ["restaurant", "vietnamese-food", "healthy-food", "family-dining"],
+    "difficulty": "easy",
+    "popularity": null,
+    "source": "https://www.tripadvisor.com.vn/Restaurant_Review-g293922-d28031308-Reviews-Bina_Bina_Nha_Hang_H_p_Thu_Nhi_t-Da_Lat_Lam_Dong_Province.html",
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "peach_valley_hotel",
+    "name": "Khách sạn Peach Valley",
+    "province_id": "lam_dong",
+    "type": "hotel",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": "00:00-24:00",
+      "tue": "00:00-24:00",
+      "wed": "00:00-24:00",
+      "thu": "00:00-24:00",
+      "fri": "00:00-24:00",
+      "sat": "00:00-24:00",
+      "sun": "00:00-24:00"
+    },
+    "visit_minutes": null,
+    "price_vnd": null,
+    "tags": ["hotel", "accommodation", "wifi", "parking"],
+    "difficulty": "easy",
+    "popularity": null,
+    "source": "https://www.hoteldalatvalley.com/",
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "ngoc_phat_hotel",
+    "name": "Khách sạn Ngọc Phát Đà Lạt",
+    "province_id": "lam_dong",
+    "type": "hotel",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": "00:00-24:00",
+      "tue": "00:00-24:00",
+      "wed": "00:00-24:00",
+      "thu": "00:00-24:00",
+      "fri": "00:00-24:00",
+      "sat": "00:00-24:00",
+      "sun": "00:00-24:00"
+    },
+    "visit_minutes": null,
+    "price_vnd": null,
+    "tags": ["hotel", "accommodation", "city-center", "lake-view"],
+    "difficulty": "easy",
+    "popularity": null,
+    "source": "https://visitlamdong.vn/vi/ngocphat",
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "huyen_179_hotel",
+    "name": "Khách sạn Huyền 179",
+    "province_id": "lam_dong",
+    "type": "hotel",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": "00:00-24:00",
+      "tue": "00:00-24:00",
+      "wed": "00:00-24:00",
+      "thu": "00:00-24:00",
+      "fri": "00:00-24:00",
+      "sat": "00:00-24:00",
+      "sun": "00:00-24:00"
+    },
+    "visit_minutes": null,
+    "price_vnd": null,
+    "tags": ["hotel", "accommodation", "city-center", "budget-hotel"],
+    "difficulty": "easy",
+    "popularity": null,
+    "source": "https://www.facebook.com/kshuyen179/",
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "hoan_my_hospital",
+    "name": "Bệnh viện Hoàn Mỹ Đà Lạt",
+    "province_id": "lam_dong",
+    "type": "hospital",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": "00:00-24:00",
+      "tue": "00:00-24:00",
+      "wed": "00:00-24:00",
+      "thu": "00:00-24:00",
+      "fri": "00:00-24:00",
+      "sat": "00:00-24:00",
+      "sun": "00:00-24:00"
+    },
+    "visit_minutes": null,
+    "price_vnd": null,
+    "tags": ["hospital", "healthcare", "emergency", "medical-service"],
+    "difficulty": "easy",
+    "popularity": null,
+    "source": "https://www.vietnamtourism.com/en/health/da-lat",
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "lam_dong_general_hospital",
+    "name": "Bệnh viện Đa khoa tỉnh Lâm Đồng",
+    "province_id": "lam_dong",
+    "type": "hospital",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": "00:00-24:00",
+      "tue": "00:00-24:00",
+      "wed": "00:00-24:00",
+      "thu": "00:00-24:00",
+      "fri": "00:00-24:00",
+      "sat": "00:00-24:00",
+      "sun": "00:00-24:00"
+    },
+    "visit_minutes": null,
+    "price_vnd": null,
+    "tags": ["hospital", "healthcare", "emergency", "public-hospital"],
+    "difficulty": "easy",
+    "popularity": null,
+    "source": "https://www.vietnamtourism.com/en/health/da-lat",
+    "last_verified": "2026-11-07"
+  }
 ]
+

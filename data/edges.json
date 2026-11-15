@@ -2,9 +2,632 @@
 [
   {
     "from": "puppy_farm",
-    "to": "datanla_waterfall",
-    "minutes": 0,
+    "to": "vuon_hoa_da_lat",
+    "minutes": 26,
+    "km": 10.3,
+    "cost_vnd": 0
+  },
+  {
+    "from": "vuon_hoa_da_lat",
+    "to": "puppy_farm",
+    "minutes": 26,
+    "km": 10.3,
+    "cost_vnd": 0
+  },
+  {
+    "from": "puppy_farm",
+    "to": "langbiang",
+    "minutes": 23,
+    "km": 13.3,
+    "cost_vnd": 0
+  },
+  {
+    "from": "langbiang",
+    "to": "puppy_farm",
+    "minutes": 23,
+    "km": 13.3,
+    "cost_vnd": 0
+  },
+  {
+    "from": "puppy_farm",
+    "to": "nam_nuong",
+    "minutes": 16,
+    "km": 7.4,
+    "cost_vnd": 0
+  },
+  {
+    "from": "nam_nuong",
+    "to": "puppy_farm",
+    "minutes": 16,
+    "km": 7.4,
+    "cost_vnd": 0
+  },
+  {
+    "from": "puppy_farm",
+    "to": "bina_bina",
+    "minutes": 16,
+    "km": 7.8,
+    "cost_vnd": 0
+  },
+  {
+    "from": "bina_bina",
+    "to": "puppy_farm",
+    "minutes": 16,
+    "km": 7.8,
+    "cost_vnd": 0
+  },
+  {
+    "from": "puppy_farm",
+    "to": "peach_valley_hotel",
+    "minutes": 24,
+    "km": 10.1,
+    "cost_vnd": 0
+  },
+  {
+    "from": "peach_valley_hotel",
+    "to": "puppy_farm",
+    "minutes": 24,
+    "km": 10.1,
+    "cost_vnd": 0
+  },
+  {
+    "from": "puppy_farm",
+    "to": "ngoc_phat_hotel",
+    "minutes": 19,
+    "km": 8.8,
+    "cost_vnd": 0
+  },
+  {
+    "from": "ngoc_phat_hotel",
+    "to": "puppy_farm",
+    "minutes": 19,
+    "km": 8.8,
+    "cost_vnd": 0
+  },
+  {
+    "from": "puppy_farm",
+    "to": "huyen_179_hotel",
+    "minutes": 21,
+    "km": 8.8,
+    "cost_vnd": 0
+  },
+  {
+    "from": "huyen_179_hotel",
+    "to": "puppy_farm",
+    "minutes": 21,
+    "km": 8.8,
+    "cost_vnd": 0
+  },
+  {
+    "from": "puppy_farm",
+    "to": "hoan_my_hospital",
+    "minutes": 28,
+    "km": 12.6,
+    "cost_vnd": 0
+  },
+  {
+    "from": "hoan_my_hospital",
+    "to": "puppy_farm",
+    "minutes": 28,
+    "km": 12.6,
+    "cost_vnd": 0
+  },
+  {
+    "from": "puppy_farm",
+    "to": "lam_dong_general_hospital",
+    "minutes": 18,
+    "km": 7.9,
+    "cost_vnd": 0
+  },
+  {
+    "from": "lam_dong_general_hospital",
+    "to": "puppy_farm",
+    "minutes": 18,
+    "km": 7.9,
+    "cost_vnd": 0
+  },
+  {
+    "from": "vuon_hoa_da_lat",
+    "to": "langbiang",
+    "minutes": 26,
+    "km": 12.2,
+    "cost_vnd": 0
+  },
+  {
+    "from": "langbiang",
+    "to": "vuon_hoa_da_lat",
+    "minutes": 26,
+    "km": 12.2,
+    "cost_vnd": 0
+  },
+  {
+    "from": "vuon_hoa_da_lat",
+    "to": "nam_nuong",
+    "minutes": 14,
+    "km": 3.2,
+    "cost_vnd": 0
+  },
+  {
+    "from": "nam_nuong",
+    "to": "vuon_hoa_da_lat",
+    "minutes": 14,
+    "km": 3.2,
+    "cost_vnd": 0
+  },
+  {
+    "from": "vuon_hoa_da_lat",
+    "to": "bina_bina",
+    "minutes": 14,
+    "km": 4.3,
+    "cost_vnd": 0
+  },
+  {
+    "from": "bina_bina",
+    "to": "vuon_hoa_da_lat",
+    "minutes": 14,
+    "km": 4.3,
+    "cost_vnd": 0
+  },
+  {
+    "from": "vuon_hoa_da_lat",
+    "to": "peach_valley_hotel",
+    "minutes": 22,
+    "km": 1.5,
+    "cost_vnd": 0
+  },
+  {
+    "from": "peach_valley_hotel",
+    "to": "vuon_hoa_da_lat",
+    "minutes": 22,
+    "km": 1.5,
+    "cost_vnd": 0
+  },
+  {
+    "from": "vuon_hoa_da_lat",
+    "to": "ngoc_phat_hotel",
+    "minutes": 9,
+    "km": 2.8,
+    "cost_vnd": 0
+  },
+  {
+    "from": "ngoc_phat_hotel",
+    "to": "vuon_hoa_da_lat",
+    "minutes": 9,
+    "km": 2.8,
+    "cost_vnd": 0
+  },
+  {
+    "from": "vuon_hoa_da_lat",
+    "to": "huyen_179_hotel",
+    "minutes": 8,
+    "km": 2.0,
+    "cost_vnd": 0
+  },
+  {
+    "from": "huyen_179_hotel",
+    "to": "vuon_hoa_da_lat",
+    "minutes": 8,
+    "km": 2.0,
+    "cost_vnd": 0
+  },
+  {
+    "from": "vuon_hoa_da_lat",
+    "to": "hoan_my_hospital",
+    "minutes": 13,
+    "km": 5.2,
+    "cost_vnd": 0
+  },
+  {
+    "from": "hoan_my_hospital",
+    "to": "vuon_hoa_da_lat",
+    "minutes": 13,
+    "km": 5.2,
+    "cost_vnd": 0
+  },
+  {
+    "from": "vuon_hoa_da_lat",
+    "to": "lam_dong_general_hospital",
+    "minutes": 15,
+    "km": 3.6,
+    "cost_vnd": 0
+  },
+  {
+    "from": "lam_dong_general_hospital",
+    "to": "vuon_hoa_da_lat",
+    "minutes": 15,
+    "km": 3.6,
+    "cost_vnd": 0
+  },
+  {
+    "from": "langbiang",
+    "to": "nam_nuong",
+    "minutes": 24,
+    "km": 11.6,
+    "cost_vnd": 0
+  },
+  {
+    "from": "nam_nuong",
+    "to": "langbiang",
+    "minutes": 24,
+    "km": 11.6,
+    "cost_vnd": 0
+  },
+  {
+    "from": "langbiang",
+    "to": "bina_bina",
+    "minutes": 29,
     "km": 13.1,
+    "cost_vnd": 0
+  },
+  {
+    "from": "bina_bina",
+    "to": "langbiang",
+    "minutes": 29,
+    "km": 13.1,
+    "cost_vnd": 0
+  },
+  {
+    "from": "langbiang",
+    "to": "peach_valley_hotel",
+    "minutes": 29,
+    "km": 13.6,
+    "cost_vnd": 0
+  },
+  {
+    "from": "peach_valley_hotel",
+    "to": "langbiang",
+    "minutes": 29,
+    "km": 13.6,
+    "cost_vnd": 0
+  },
+  {
+    "from": "langbiang",
+    "to": "ngoc_phat_hotel",
+    "minutes": 31,
+    "km": 13.7,
+    "cost_vnd": 0
+  },
+  {
+    "from": "ngoc_phat_hotel",
+    "to": "langbiang",
+    "minutes": 31,
+    "km": 13.7,
+    "cost_vnd": 0
+  },
+  {
+    "from": "langbiang",
+    "to": "huyen_179_hotel",
+    "minutes": 25,
+    "km": 12.1,
+    "cost_vnd": 0
+  },
+  {
+    "from": "huyen_179_hotel",
+    "to": "langbiang",
+    "minutes": 25,
+    "km": 12.1,
+    "cost_vnd": 0
+  },
+  {
+    "from": "langbiang",
+    "to": "hoan_my_hospital",
+    "minutes": 37,
+    "km": 17.3,
+    "cost_vnd": 0
+  },
+  {
+    "from": "hoan_my_hospital",
+    "to": "langbiang",
+    "minutes": 37,
+    "km": 17.3,
+    "cost_vnd": 0
+  },
+  {
+    "from": "langbiang",
+    "to": "lam_dong_general_hospital",
+    "minutes": 24,
+    "km": 11.4,
+    "cost_vnd": 0
+  },
+  {
+    "from": "lam_dong_general_hospital",
+    "to": "langbiang",
+    "minutes": 24,
+    "km": 11.4,
+    "cost_vnd": 0
+  },
+  {
+    "from": "nam_nuong",
+    "to": "bina_bina",
+    "minutes": 6,
+    "km": 1.3,
+    "cost_vnd": 0
+  },
+  {
+    "from": "bina_bina",
+    "to": "nam_nuong",
+    "minutes": 6,
+    "km": 1.3,
+    "cost_vnd": 0
+  },
+  {
+    "from": "nam_nuong",
+    "to": "peach_valley_hotel",
+    "minutes": 14,
+    "km": 3.1,
+    "cost_vnd": 0
+  },
+  {
+    "from": "peach_valley_hotel",
+    "to": "nam_nuong",
+    "minutes": 14,
+    "km": 3.1,
+    "cost_vnd": 0
+  },
+  {
+    "from": "nam_nuong",
+    "to": "ngoc_phat_hotel",
+    "minutes": 8,
+    "km": 1.9,
+    "cost_vnd": 0
+  },
+  {
+    "from": "ngoc_phat_hotel",
+    "to": "nam_nuong",
+    "minutes": 8,
+    "km": 1.9,
+    "cost_vnd": 0
+  },
+  {
+    "from": "nam_nuong",
+    "to": "huyen_179_hotel",
+    "minutes": 8,
+    "km": 1.8,
+    "cost_vnd": 0
+  },
+  {
+    "from": "huyen_179_hotel",
+    "to": "nam_nuong",
+    "minutes": 8,
+    "km": 1.8,
+    "cost_vnd": 0
+  },
+  {
+    "from": "nam_nuong",
+    "to": "hoan_my_hospital",
+    "minutes": 17,
+    "km": 5.9,
+    "cost_vnd": 0
+  },
+  {
+    "from": "hoan_my_hospital",
+    "to": "nam_nuong",
+    "minutes": 17,
+    "km": 5.9,
+    "cost_vnd": 0
+  },
+  {
+    "from": "nam_nuong",
+    "to": "lam_dong_general_hospital",
+    "minutes": 7,
+    "km": 0.4,
+    "cost_vnd": 0
+  },
+  {
+    "from": "lam_dong_general_hospital",
+    "to": "nam_nuong",
+    "minutes": 7,
+    "km": 0.4,
+    "cost_vnd": 0
+  },
+  {
+    "from": "bina_bina",
+    "to": "peach_valley_hotel",
+    "minutes": 15,
+    "km": 3.2,
+    "cost_vnd": 0
+  },
+  {
+    "from": "peach_valley_hotel",
+    "to": "bina_bina",
+    "minutes": 15,
+    "km": 3.2,
+    "cost_vnd": 0
+  },
+  {
+    "from": "bina_bina",
+    "to": "ngoc_phat_hotel",
+    "minutes": 9,
+    "km": 2.1,
+    "cost_vnd": 0
+  },
+  {
+    "from": "ngoc_phat_hotel",
+    "to": "bina_bina",
+    "minutes": 9,
+    "km": 2.1,
+    "cost_vnd": 0
+  },
+  {
+    "from": "bina_bina",
+    "to": "huyen_179_hotel",
+    "minutes": 11,
+    "km": 2.2,
+    "cost_vnd": 0
+  },
+  {
+    "from": "huyen_179_hotel",
+    "to": "bina_bina",
+    "minutes": 11,
+    "km": 2.2,
+    "cost_vnd": 0
+  },
+  {
+    "from": "bina_bina",
+    "to": "hoan_my_hospital",
+    "minutes": 16,
+    "km": 5.8,
+    "cost_vnd": 0
+  },
+  {
+    "from": "hoan_my_hospital",
+    "to": "bina_bina",
+    "minutes": 16,
+    "km": 5.8,
+    "cost_vnd": 0
+  },
+  {
+    "from": "bina_bina",
+    "to": "lam_dong_general_hospital",
+    "minutes": 9,
+    "km": 1.8,
+    "cost_vnd": 0
+  },
+  {
+    "from": "lam_dong_general_hospital",
+    "to": "bina_bina",
+    "minutes": 9,
+    "km": 1.8,
+    "cost_vnd": 0
+  },
+  {
+    "from": "peach_valley_hotel",
+    "to": "ngoc_phat_hotel",
+    "minutes": 10,
+    "km": 3.3,
+    "cost_vnd": 0
+  },
+  {
+    "from": "ngoc_phat_hotel",
+    "to": "peach_valley_hotel",
+    "minutes": 10,
+    "km": 3.3,
+    "cost_vnd": 0
+  },
+  {
+    "from": "peach_valley_hotel",
+    "to": "huyen_179_hotel",
+    "minutes": 11,
+    "km": 3.4,
+    "cost_vnd": 0
+  },
+  {
+    "from": "huyen_179_hotel",
+    "to": "peach_valley_hotel",
+    "minutes": 11,
+    "km": 3.4,
+    "cost_vnd": 0
+  },
+  {
+    "from": "peach_valley_hotel",
+    "to": "hoan_my_hospital",
+    "minutes": 9,
+    "km": 3.7,
+    "cost_vnd": 0
+  },
+  {
+    "from": "hoan_my_hospital",
+    "to": "peach_valley_hotel",
+    "minutes": 9,
+    "km": 3.7,
+    "cost_vnd": 0
+  },
+  {
+    "from": "peach_valley_hotel",
+    "to": "lam_dong_general_hospital",
+    "minutes": 18,
+    "km": 3.4,
+    "cost_vnd": 0
+  },
+  {
+    "from": "lam_dong_general_hospital",
+    "to": "peach_valley_hotel",
+    "minutes": 18,
+    "km": 3.4,
+    "cost_vnd": 0
+  },
+  {
+    "from": "ngoc_phat_hotel",
+    "to": "huyen_179_hotel",
+    "minutes": 6,
+    "km": 1.5,
+    "cost_vnd": 0
+  },
+  {
+    "from": "huyen_179_hotel",
+    "to": "ngoc_phat_hotel",
+    "minutes": 6,
+    "km": 1.5,
+    "cost_vnd": 0
+  },
+  {
+    "from": "ngoc_phat_hotel",
+    "to": "hoan_my_hospital",
+    "minutes": 9,
+    "km": 4.0,
+    "cost_vnd": 0
+  },
+  {
+    "from": "hoan_my_hospital",
+    "to": "ngoc_phat_hotel",
+    "minutes": 9,
+    "km": 4.0,
+    "cost_vnd": 0
+  },
+  {
+    "from": "ngoc_phat_hotel",
+    "to": "lam_dong_general_hospital",
+    "minutes": 10,
+    "km": 2.3,
+    "cost_vnd": 0
+  },
+  {
+    "from": "lam_dong_general_hospital",
+    "to": "ngoc_phat_hotel",
+    "minutes": 10,
+    "km": 2.3,
+    "cost_vnd": 0
+  },
+  {
+    "from": "huyen_179_hotel",
+    "to": "hoan_my_hospital",
+    "minutes": 16,
+    "km": 5.6,
+    "cost_vnd": 0
+  },
+  {
+    "from": "hoan_my_hospital",
+    "to": "huyen_179_hotel",
+    "minutes": 16,
+    "km": 5.6,
+    "cost_vnd": 0
+  },
+  {
+    "from": "huyen_179_hotel",
+    "to": "lam_dong_general_hospital",
+    "minutes": 10,
+    "km": 2.1,
+    "cost_vnd": 0
+  },
+  {
+    "from": "lam_dong_general_hospital",
+    "to": "huyen_179_hotel",
+    "minutes": 10,
+    "km": 2.1,
+    "cost_vnd": 0
+  },
+  {
+    "from": "hoan_my_hospital",
+    "to": "lam_dong_general_hospital",
+    "minutes": 20,
+    "km": 6.3,
+    "cost_vnd": 0
+  },
+  {
+    "from": "lam_dong_general_hospital",
+    "to": "hoan_my_hospital",
+    "minutes": 20,
+    "km": 6.3,
     "cost_vnd": 0
   }
 ]
