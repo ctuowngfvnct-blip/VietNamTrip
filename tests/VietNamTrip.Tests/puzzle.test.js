@@ -35,7 +35,7 @@ describe("Puzzle", () => {
     const result = moveTile(puzzle, 8);
 
     expect(result).toEqual([1, 2, 3, 4, 5, 6, 7, 8, 0]);
-});
+    });
 
     it("should not move a non-adjacent tile", () => {
     const puzzle = [1, 2, 3, 4, 5, 6, 7, 0, 8];
@@ -43,25 +43,25 @@ describe("Puzzle", () => {
     const result = moveTile(puzzle, 5);
 
     expect(result).toEqual(puzzle);
-});
+    });
 
-it("should return true when puzzle is solved", () => {
-    const puzzle = [1, 2, 3, 4, 5, 6, 7, 8, 0];
+    it("should return true when puzzle is solved", () => {
+        const puzzle = [1, 2, 3, 4, 5, 6, 7, 8, 0];
 
-    expect(isPuzzleSolved(puzzle)).toBe(true);
-});
+        expect(isPuzzleSolved(puzzle)).toBe(true);
+    });
 
-it("should return false when puzzle is not solved", () => {
-    const puzzle = [1, 2, 3, 4, 5, 6, 0, 7, 8];
+    it("should return false when puzzle is not solved", () => {
+        const puzzle = [1, 2, 3, 4, 5, 6, 0, 7, 8];
 
-    expect(isPuzzleSolved(puzzle)).toBe(false);
-});
+        expect(isPuzzleSolved(puzzle)).toBe(false);
+    });
 
-it("should not move a tile with an invalid index", () => {
-    const puzzle = [1, 2, 3, 4, 5, 6, 7, 0, 8];
+    it("should not move a tile with an invalid index", () => {
+        const puzzle = [1, 2, 3, 4, 5, 6, 7, 0, 8];
 
-    const result = moveTile(puzzle, 9);
+        const result = moveTile(puzzle, 9);
 
-    expect(result).toEqual(puzzle);
-});
+        expect(result).toEqual(puzzle);
+    });
 });

@@ -55,85 +55,85 @@ describe("Province Progress Tests", () => {
     });
 
     it("should unlock Tuyen Quang after completing Lam Dong", () => {
-    const unlocked = getUnlockedProvinceIds(
-        provinces,
-        ["lam_dong"]
-    );
+        const unlocked = getUnlockedProvinceIds(
+            provinces,
+            ["lam_dong"]
+        );
 
-    expect(unlocked).toEqual(["lam_dong", "tuyen_quang"]);
-});
+        expect(unlocked).toEqual(["lam_dong", "tuyen_quang"]);
+    });
 
-it("should unlock Cao Bang after completing Tuyen Quang", () => {
-    const unlocked = getUnlockedProvinceIds(
-        provinces,
-        ["lam_dong", "tuyen_quang"]
-    );
+    it("should unlock Cao Bang after completing Tuyen Quang", () => {
+        const unlocked = getUnlockedProvinceIds(
+            provinces,
+            ["lam_dong", "tuyen_quang"]
+        );
 
-    expect(unlocked).toEqual([
-        "lam_dong",
-        "tuyen_quang",
-        "cao_bang"
-    ]);
-});
+        expect(unlocked).toEqual([
+            "lam_dong",
+            "tuyen_quang",
+            "cao_bang"
+        ]);
+    });
+
     it("should not unlock the next province before completing the current one", () => {
-    const unlocked = getUnlockedProvinceIds(
-        provinces,
-        []
-    );
+        const unlocked = getUnlockedProvinceIds(
+            provinces,
+            []
+        );
 
-    expect(unlocked).toEqual(["lam_dong"]);
-});
-it("should add a completed province", () => {
-    const completed = completeProvince(
-        "lam_dong",
-        []
-    );
+        expect(unlocked).toEqual(["lam_dong"]);
+    });
+    it("should add a completed province", () => {
+        const completed = completeProvince(
+            "lam_dong",
+            []
+        );
 
-    expect(completed).toEqual(["lam_dong"]);
-});
+        expect(completed).toEqual(["lam_dong"]);
+    });
 
-it("should not add a province twice", () => {
-    const completed = completeProvince(
-        "lam_dong",
-        ["lam_dong"]
-    );
+    it("should not add a province twice", () => {
+        const completed = completeProvince(
+            "lam_dong",
+            ["lam_dong"]
+        );
 
-    expect(completed).toEqual(["lam_dong"]);
-});
+        expect(completed).toEqual(["lam_dong"]);
+    });
 
-it("should save and load completed provinces", () => {
-    const completed = ["lam_dong", "tuyen_quang"];
+    it("should save and load completed provinces", () => {
+        const completed = ["lam_dong", "tuyen_quang"];
 
-    saveProgress(completed);
+        saveProgress(completed);
 
-    const loaded = loadProgress();
+        const loaded = loadProgress();
 
-    expect(loaded).toEqual(completed);
-});
+        expect(loaded).toEqual(completed);
+    });
 
-it("should return an empty array when no progress is saved", () => {
-    const loaded = loadProgress();
+    it("should return an empty array when no progress is saved", () => {
+        const loaded = loadProgress();
 
-    expect(loaded).toEqual([]);
-});
+        expect(loaded).toEqual([]);
+    });
 
-it("should return an empty array when saved data is invalid", () => {
-    localStorage.setItem("vietnamtrip_progress", "invalid-json");
+    it("should return an empty array when saved data is invalid", () => {
+        localStorage.setItem("vietnamtrip_progress", "invalid-json");
 
-    const loaded = loadProgress();
+        const loaded = loadProgress();
 
-    expect(loaded).toEqual([]);
-});
+        expect(loaded).toEqual([]);
+    });
 
-it("should return an empty array when saved data is not an array", () => {
-    localStorage.setItem(
-        "vietnamtrip_progress",
-        JSON.stringify({ progress: "hello" })
-    );
+    it("should return an empty array when saved data is not an array", () => {
+        localStorage.setItem(
+            "vietnamtrip_progress",
+            JSON.stringify({ progress: "hello" })
+        );
 
-    const loaded = loadProgress();
+        const loaded = loadProgress();
 
-    expect(loaded).toEqual([]);
-});
-
+        expect(loaded).toEqual([]);
+    });
 });

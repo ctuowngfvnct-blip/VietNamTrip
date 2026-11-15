@@ -1,4 +1,3 @@
-
 import {
     shufflePuzzle,
     moveTile,

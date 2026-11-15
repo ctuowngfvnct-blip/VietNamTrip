@@ -56,65 +56,64 @@ describe("Game Tests", () => {
     });
 
     it("should not start a game for a locked province", () => {
-    const game = startGame(provinces, "tuyen_quang");
+        const game = startGame(provinces, "tuyen_quang");
 
-    expect(game).toBeNull();
-});
+        expect(game).toBeNull();
+    });
 
-it("should allow the player to move a valid tile", () => {
-    const game = startGame(provinces, "lam_dong", 12345);
+    it("should allow the player to move a valid tile", () => {
+        const game = startGame(provinces, "lam_dong", 12345);
 
-    const emptyIndex = game.puzzle.indexOf(0);
-    const tileIndex = emptyIndex - 1;
+        const emptyIndex = game.puzzle.indexOf(0);
+        const tileIndex = emptyIndex - 1;
 
-    const updatedGame = playMove(game, tileIndex);
+        const updatedGame = playMove(game, tileIndex);
 
-    expect(updatedGame).not.toBe(game);
-    expect(updatedGame.puzzle).not.toEqual(game.puzzle);
-});
+        expect(updatedGame).not.toBe(game);
+        expect(updatedGame.puzzle).not.toEqual(game.puzzle);
+    });
 
-it("should not allow the player to move an invalid tile", () => {
-    const game = startGame(provinces, "lam_dong", 12345);
+    it("should not allow the player to move an invalid tile", () => {
+        const game = startGame(provinces, "lam_dong", 12345);
 
-    const emptyIndex = game.puzzle.indexOf(0);
+        const emptyIndex = game.puzzle.indexOf(0);
 
     // Choose a tile that is not next to the empty tile
-    const invalidIndex = (emptyIndex + 4) % 9;
+        const invalidIndex = (emptyIndex + 4) % 9;
 
-    const updatedGame = playMove(game, invalidIndex);
+        const updatedGame = playMove(game, invalidIndex);
 
-    expect(updatedGame).toBe(game);
-    expect(updatedGame.puzzle).toEqual(game.puzzle);
-});
+        expect(updatedGame).toBe(game);
+        expect(updatedGame.puzzle).toEqual(game.puzzle);
+    });
 
-it("should complete the province when the puzzle is solved", () => {
-    const game = startGame(provinces, "lam_dong");
+    it("should complete the province when the puzzle is solved", () => {
+        const game = startGame(provinces, "lam_dong");
 
     // Create a puzzle that needs only one move to solve
-    game.puzzle = [1, 2, 3, 4, 5, 6, 7, 0, 8];
+        game.puzzle = [1, 2, 3, 4, 5, 6, 7, 0, 8];
 
-    const updatedGame = playMove(game, 8);
+        const updatedGame = playMove(game, 8);
 
-    expect(updatedGame.isSolved).toBe(true);
-    expect(updatedGame.completedProvinceIds).toContain("lam_dong");
-    expect(updatedGame.unlockedProvinceIds).toContain("tuyen_quang");
+        expect(updatedGame.isSolved).toBe(true);
+        expect(updatedGame.completedProvinceIds).toContain("lam_dong");
+        expect(updatedGame.unlockedProvinceIds).toContain("tuyen_quang");
 
     // Check whether progress was saved
-    expect(
-        JSON.parse(localStorage.getItem("vietnamtrip_progress"))
-    ).toContain("lam_dong");
-});
+        expect(
+            JSON.parse(localStorage.getItem("vietnamtrip_progress"))
+        ).toContain("lam_dong");
+    });
 
-it("should not allow moves after the puzzle is solved", () => {
-    const game = startGame(provinces, "lam_dong");
+    it("should not allow moves after the puzzle is solved", () => {
+        const game = startGame(provinces, "lam_dong");
 
-    game.puzzle = [1, 2, 3, 4, 5, 6, 7, 0, 8];
+        game.puzzle = [1, 2, 3, 4, 5, 6, 7, 0, 8];
 
-    const solvedGame = playMove(game, 8);
+        const solvedGame = playMove(game, 8);
 
-    const updatedGame = playMove(solvedGame, 7);
+        const updatedGame = playMove(solvedGame, 7);
 
-    expect(updatedGame).toBe(solvedGame);
-});
-
+        expect(updatedGame).toBe(solvedGame);
+    });
 });
