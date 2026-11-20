@@ -1,0 +1,41 @@
+name: CI
+
+# Chạy mỗi khi có Pull Request vào main, và mỗi khi có thay đổi được đưa vào main.
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+# Chỉ cho phép đọc code, không cấp quyền ghi nào khác.
+permissions:
+  contents: read
+
+# Có commit mới trên cùng một nhánh thì huỷ lần chạy cũ cho đỡ tốn thời gian.
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    name: Kiểm tra test và dữ liệu
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Lấy code
+        uses: actions/checkout@v4
+
+      - name: Cài Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Cài thư viện
+        run: npm ci
+
+      - name: Chạy test
+        run: npm test
+
+      - name: Kiểm tra dữ liệu
+        run: npm run validate:data
