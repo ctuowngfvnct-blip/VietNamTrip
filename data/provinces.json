@@ -188,7 +188,7 @@
     "map_color": "#0077BE",
     "center": [20.916995, 106.459245],
     "bbox": [106.126171, 20.125148, 107.739616, 21.234481],
-    "puzzle_image": "picture/haiduong.webp",
+    "puzzle_image": "picture/haiphong.webp",
     "is_demo": true,
     "source": "https://github.com/thanglequoc/vietnamese-provinces-database.git",
     "last_verified": "2026-10-18"
