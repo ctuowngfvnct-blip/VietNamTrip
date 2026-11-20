@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Viet Nam Map</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@turf/turf@6/turf.min.js"></script>
+  <script type="module" src="map.js"></script>
+  
+  <style>
+    html, body { margin: 0; height: 100%; }
+    #map { height: 100%; background: #fff; }
+    .nhan-tinh {
+      font: 600 11px Arial, sans-serif; color: #333;
+      white-space: nowrap; pointer-events: none;
+      transform: translate(-50%, -50%);
+      width: auto !important; height: auto !important;
+      text-shadow: 0 0 2px #fff, 0 0 2px #fff;
+
+    .province-label {
+      background: none; border: none; box-shadow: none;
+      font-size: 11px; font-weight: 600;
+    }
+    .province-label::before { display: none; }
+    }
+
+    #cua-so {
+        position: fixed; inset: 0;
+        background: rgba(0,0,0,0.5);
+        display: flex; align-items: center; justify-content: center;
+        z-index: 1000;           /* nằm trên bản đồ */
+    }
+
+    #cua-so.an { display: none; }
+    .hop { background: #fff; padding: 20px; border-radius: 8px; text-align: center; }
+
+    #khu-ghep {
+        display: grid;
+        grid-template-columns: repeat(3, 100px);
+        gap: 2px; width: max-content; margin: 12px auto;
+    }
+    .manh {
+        width: 100px; height: 100px;
+        background-size: 300% 300%;   /* ảnh to gấp 3 lần ô */
+        cursor: pointer;
+    }
+    .manh.trong { background: #eee; cursor: default; }
+  </style>
+</head>
+
+<body>
+    <div id="map"></div>
+    <div id="cua-so" class="an">
+        <div class="hop">
+            <h2 id="tieu-de"></h2>
+            <div id="khu-ghep"></div>
+            <button id="nut-thang">Giải xong (tạm)</button>
+            <button id="nut-dong">Đóng</button>
+        </div>
+    </div>
+    <script src="map.js"></script>
+
+</body>
+
+</html>
