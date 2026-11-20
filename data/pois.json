@@ -140,7 +140,7 @@
     "id": "peach_valley_hotel",
     "name": "Khách sạn Peach Valley",
     "province_id": "lam_dong",
-    "type": "hotel",
+    "type": "lodging",
     "lat": null,
     "lon": null,
     "opening_hours": {
@@ -164,7 +164,7 @@
     "id": "ngoc_phat_hotel",
     "name": "Khách sạn Ngọc Phát Đà Lạt",
     "province_id": "lam_dong",
-    "type": "hotel",
+    "type": "lodging",
     "lat": null,
     "lon": null,
     "opening_hours": {
@@ -188,7 +188,7 @@
     "id": "huyen_179_hotel",
     "name": "Khách sạn Huyền 179",
     "province_id": "lam_dong",
-    "type": "hotel",
+    "type": "lodging",
     "lat": null,
     "lon": null,
     "opening_hours": {
@@ -255,6 +255,645 @@
     "popularity": null,
     "source": "https://www.vietnamtourism.com/en/health/da-lat",
     "last_verified": "2026-11-07"
+  },
+  {
+    "id": "vinh_ha_long",
+    "name": "Vịnh Hạ Long",
+    "province_id": "quang_ninh",
+    "type": "attraction",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null,
+      "sun": null
+    },
+    "visit_minutes": {
+      "short": 240,
+      "long": 480
+    },
+    "price_vnd": null,
+    "tags": ["outdoor", "nature", "bay", "sightseeing", "cruise", "photography"],
+    "difficulty": "easy",
+    "popularity": null,
+    "source": null,
+    "last_verified": null
+  },
+  {
+    "id": "bao_tang_quang_ninh",
+    "name": "Bảo tàng Quảng Ninh",
+    "province_id": "quang_ninh",
+    "type": "attraction",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null,
+      "sun": null
+    },
+    "visit_minutes": {
+      "short": 90,
+      "long": 150
+    },
+    "price_vnd": null,
+    "tags": ["indoor", "museum", "history", "culture", "architecture", "photography"],
+    "difficulty": "easy",
+    "popularity": null,
+    "source": null,
+    "last_verified": null
+  },
+  {
+    "id": "sun_world_ha_long",
+    "name": "Sun World Ha Long",
+    "province_id": "quang_ninh",
+    "type": "attraction",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null,
+      "sun": null
+    },
+    "visit_minutes": {
+      "short": 240,
+      "long": 420
+    },
+    "price_vnd": null,
+    "tags": ["indoor", "outdoor", "amusement-park", "cable-car", "family-friendly", "entertainment"],
+    "difficulty": "easy",
+    "popularity": null,
+    "source": null,
+    "last_verified": null
+  },
+  {
+    "id": "dao_tuan_chau",
+    "name": "Đảo Tuần Châu",
+    "province_id": "quang_ninh",
+    "type": "attraction",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null,
+      "sun": null
+    },
+    "visit_minutes": {
+      "short": 180,
+      "long": 360
+    },
+    "price_vnd": null,
+    "tags": ["indoor", "outdoor", "island", "beach", "entertainment", "sightseeing"],
+    "difficulty": "easy",
+    "popularity": null,
+    "source": null,
+    "last_verified": null
+  },
+  {
+    "id": "pho_co_ha_long",
+    "name": "Phố cổ Hạ Long",
+    "province_id": "quang_ninh",
+    "type": "attraction",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null,
+      "sun": null
+    },
+    "visit_minutes": {
+      "short": 60,
+      "long": 120
+    },
+    "price_vnd": null,
+    "tags": ["outdoor", "walking-street", "architecture", "photography", "nightlife"],
+    "difficulty": "easy",
+    "popularity": null,
+    "source": null,
+    "last_verified": null
+  },
+  {
+    "id": "dao_co_to",
+    "name": "Đảo Cô Tô",
+    "province_id": "quang_ninh",
+    "type": "attraction",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null,
+      "sun": null
+    },
+    "visit_minutes": {
+      "short": 360,
+      "long": 720
+    },
+    "price_vnd": null,
+    "tags": ["outdoor", "island", "beach", "nature", "sightseeing", "photography"],
+    "difficulty": "moderate",
+    "popularity": null,
+    "source": null,
+    "last_verified": null
+  },
+  {
+    "id": "bv_da_khoa_tinh_quang_ninh",
+    "name": "Bệnh viện Đa khoa tỉnh Quảng Ninh",
+    "province_id": "quang_ninh",
+    "type": "hospital",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "visit_minutes": null,
+    "price_vnd": null,
+    "tags": ["indoor", "healthcare", "emergency", "public-hospital"],
+    "difficulty": null,
+    "popularity": null,
+    "source": null,
+    "last_verified": null
+  },
+  {
+    "id": "vinpearl_resort_ha_long",
+    "name": "Vinpearl Resort & Spa Ha Long",
+    "province_id": "quang_ninh",
+    "type": "lodging",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null,
+      "sun": null
+    },
+    "visit_minutes": null,
+    "price_vnd": null,
+    "tags": ["indoor", "outdoor", "resort", "luxury", "beachfront", "spa", "wifi"],
+    "difficulty": null,
+    "popularity": null,
+    "source": null,
+    "last_verified": null
+  },
+  {
+    "id": "legacy_yen_tu_mgallery",
+    "name": "Legacy Yen Tu - MGallery",
+    "province_id": "quang_ninh",
+    "type": "lodging",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null,
+      "sun": null
+    },
+    "visit_minutes": null,
+    "price_vnd": null,
+    "tags": ["indoor", "outdoor", "resort", "luxury", "heritage", "wellness", "wifi"],
+    "difficulty": null,
+    "popularity": null,
+    "source": null,
+    "last_verified": null
+  },
+  {
+    "id": "nha_hang_linh_dan",
+    "name": "Nhà Hàng Linh Đan",
+    "province_id": "quang_ninh",
+    "type": "restaurant",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null,
+      "sun": null
+    },
+    "visit_minutes": null,
+    "price_vnd": null,
+    "tags": ["indoor", "seafood", "local-food", "family-dining", "vietnamese-food"],
+    "difficulty": null,
+    "popularity": null,
+    "source": null,
+    "last_verified": null
+  },
+  {
+    "id": "vinh_seafood_restaurant",
+    "name": "Vịnh Seafood Restaurant",
+    "province_id": "quang_ninh",
+    "type": "restaurant",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null,
+      "sun": null
+    },
+    "visit_minutes": null,
+    "price_vnd": null,
+    "tags": ["indoor", "seafood", "local-food", "family-dining"],
+    "difficulty": null,
+    "popularity": null,
+    "source": null,
+    "last_verified": null
+  },
+  {
+    "id": "nha_hang_canh_gia_quan",
+    "name": "Nhà hàng Cảnh Gia Quán",
+    "province_id": "quang_ninh",
+    "type": "restaurant",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null,
+      "sun": null
+    },
+    "visit_minutes": null,
+    "price_vnd": null,
+    "tags": ["indoor", "seafood", "local-food", "vietnamese-food", "family-dining"],
+    "difficulty": null,
+    "popularity": null,
+    "source": null,
+    "last_verified": null
+  },
+  {
+    "id": "the_reed_hotel",
+    "name": "The Reed Hotel",
+    "province_id": "ninh_binh",
+    "type": "lodging",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null,
+      "sun": null
+    },
+    "visit_minutes": null,
+    "price_vnd": null,
+    "tags": ["indoor", "hotel", "city-center", "business", "wifi", "parking"],
+    "difficulty": null,
+    "popularity": null,
+    "source": null,
+    "last_verified": null
+  },
+  {
+    "id": "tam_coc_garden_resort",
+    "name": "Tam Coc Garden Resort",
+    "province_id": "ninh_binh",
+    "type": "lodging",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null,
+      "sun": null
+    },
+    "visit_minutes": null,
+    "price_vnd": null,
+    "tags": ["indoor", "outdoor", "resort", "eco-resort", "nature", "luxury", "wifi"],
+    "difficulty": null,
+    "popularity": null,
+    "source": null,
+    "last_verified": null
+  },
+  {
+    "id": "nha_hang_duc_xuong",
+    "name": "Nhà hàng Đức Xượng",
+    "province_id": "ninh_binh",
+    "type": "restaurant",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null,
+      "sun": null
+    },
+    "visit_minutes": null,
+    "price_vnd": null,
+    "tags": ["indoor", "local-food", "specialty", "vietnamese-food", "family-dining"],
+    "difficulty": null,
+    "popularity": null,
+    "source": null,
+    "last_verified": null
+  },
+  {
+    "id": "nha_hang_chinh_thu",
+    "name": "Nhà hàng Chính Thư",
+    "province_id": "ninh_binh",
+    "type": "restaurant",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null,
+      "sun": null
+    },
+    "visit_minutes": null,
+    "price_vnd": null,
+    "tags": ["indoor", "local-food", "specialty", "vietnamese-food", "family-dining"],
+    "difficulty": null,
+    "popularity": null,
+    "source": null,
+    "last_verified": null
+  },
+  {
+    "id": "nha_hang_de_nui_hoang_san",
+    "name": "Nhà hàng Dê Núi Hoàng San",
+    "province_id": "ninh_binh",
+    "type": "restaurant",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null,
+      "sun": null
+    },
+    "visit_minutes": null,
+    "price_vnd": null,
+    "tags": ["indoor", "local-food", "specialty", "vietnamese-food", "family-dining"],
+    "difficulty": null,
+    "popularity": null,
+    "source": null,
+    "last_verified": null
+  },
+  {
+    "id": "trang_an",
+    "name": "Quần thể Danh thắng Tràng An",
+    "province_id": "ninh_binh",
+    "type": "attraction",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null,
+      "sun": null
+    },
+    "visit_minutes": {
+      "short": 180,
+      "long": 240
+    },
+    "price_vnd": null,
+    "tags": ["outdoor", "nature", "boat-tour", "cave", "heritage", "sightseeing", "photography"],
+    "difficulty": "easy",
+    "popularity": null,
+    "source": null,
+    "last_verified": null
+  },
+  {
+    "id": "tam_coc_bich_dong",
+    "name": "Khu du lịch Tam Cốc - Bích Động",
+    "province_id": "ninh_binh",
+    "type": "attraction",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null,
+      "sun": null
+    },
+    "visit_minutes": {
+      "short": 150,
+      "long": 240
+    },
+    "price_vnd": null,
+    "tags": ["outdoor", "nature", "boat-tour", "pagoda", "sightseeing", "photography"],
+    "difficulty": "easy",
+    "popularity": null,
+    "source": null,
+    "last_verified": null
+  },
+  {
+    "id": "chua_bai_dinh",
+    "name": "Chùa Bái Đính",
+    "province_id": "ninh_binh",
+    "type": "attraction",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null,
+      "sun": null
+    },
+    "visit_minutes": {
+      "short": 150,
+      "long": 240
+    },
+    "price_vnd": null,
+    "tags": ["indoor", "outdoor", "pagoda", "spiritual", "culture", "architecture", "sightseeing"],
+    "difficulty": "easy",
+    "popularity": null,
+    "source": null,
+    "last_verified": null
+  },
+  {
+    "id": "hang_mua",
+    "name": "Hang Múa",
+    "province_id": "ninh_binh",
+    "type": "attraction",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null,
+      "sun": null
+    },
+    "visit_minutes": {
+      "short": 90,
+      "long": 150
+    },
+    "price_vnd": null,
+    "tags": ["outdoor", "mountain", "hiking", "viewpoint", "photography", "nature"],
+    "difficulty": "moderate",
+    "popularity": null,
+    "source": null,
+    "last_verified": null
+  },
+  {
+    "id": "co_do_hoa_lu",
+    "name": "Cố đô Hoa Lư",
+    "province_id": "ninh_binh",
+    "type": "attraction",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null,
+      "sun": null
+    },
+    "visit_minutes": {
+      "short": 60,
+      "long": 120
+    },
+    "price_vnd": null,
+    "tags": ["indoor", "outdoor", "history", "heritage", "culture", "temple", "sightseeing"],
+    "difficulty": "easy",
+    "popularity": null,
+    "source": null,
+    "last_verified": null
+  },
+  {
+    "id": "pho_co_hoa_lu",
+    "name": "Phố cổ Hoa Lư",
+    "province_id": "ninh_binh",
+    "type": "attraction",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null,
+      "sun": null
+    },
+    "visit_minutes": {
+      "short": 60,
+      "long": 120
+    },
+    "price_vnd": null,
+    "tags": ["outdoor", "walking-street", "culture", "nightlife", "street-food", "photography"],
+    "difficulty": "easy",
+    "popularity": null,
+    "source": null,
+    "last_verified": null
+  },
+  {
+    "id": "vuon_quoc_gia_cuc_phuong",
+    "name": "Vườn Quốc gia Cúc Phương",
+    "province_id": "ninh_binh",
+    "type": "attraction",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null,
+      "sun": null
+    },
+    "visit_minutes": {
+      "short": 240,
+      "long": 480
+    },
+    "price_vnd": null,
+    "tags": ["outdoor", "national-park", "forest", "trekking", "nature", "wildlife"],
+    "difficulty": "moderate",
+    "popularity": null,
+    "source": null,
+    "last_verified": null
+  },
+  {
+    "id": "bv_da_khoa_tinh_ninh_binh",
+    "name": "Bệnh viện Đa khoa tỉnh Ninh Bình",
+    "province_id": "ninh_binh",
+    "type": "hospital",
+    "lat": null,
+    "lon": null,
+    "opening_hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "visit_minutes": null,
+    "price_vnd": null,
+    "tags": ["indoor", "healthcare", "emergency", "public-hospital"],
+    "difficulty": null,
+    "popularity": null,
+    "source": null,
+    "last_verified": null
   }
 ]
 
