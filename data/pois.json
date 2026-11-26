@@ -5,8 +5,8 @@
     "name": "Puppy Farm",
     "province_id": "lam_dong",
     "type": "attraction",
-    "lat": null,
-    "lon": null,
+    "lat": 11.9631126,
+    "lon": 108.3840731,
     "opening_hours": {
       "mon": "07:30-17:30",
       "tue": "07:30-17:30",
@@ -25,7 +25,7 @@
     "difficulty": "easy",
     "popularity": null,
     "source": "https://lamdongtours.com/dia-diem-du-lich-da-lat/check-in/nong-trai-cun-puppy-farm-da-lat",
-    "last_verified": "2026-10-18"
+    "last_verified": "2026-11-22"
   },
 
   {
@@ -33,8 +33,8 @@
     "name": "Vườn hoa thành phố Đà Lạt",
     "province_id": "lam_dong",
     "type": "attraction",
-    "lat": null,
-    "lon": null,
+    "lat": 11.9502479,
+    "lon": 108.4498289,
     "opening_hours": {
       "mon": "07:00-18:00",
       "tue": "07:00-18:00",
@@ -53,15 +53,15 @@
     "difficulty": "easy",
     "popularity": null,
     "source": "https://dalat.vn/vi/vuonhoathanhpho",
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-22"
   },
   {
     "id": "langbiang",
     "name": "Khu du lịch Langbiang",
     "province_id": "lam_dong",
     "type": "attraction",
-    "lat": null,
-    "lon": null,
+    "lat": 12.0195968,
+    "lon": 108.4350209,
     "opening_hours": {
       "mon": "07:00-17:00",
       "tue": "07:00-17:00",
@@ -80,15 +80,15 @@
     "difficulty": "easy",
     "popularity": null,
     "source": "https://dalat.vn/vi/langbiang",
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-22"
   },
   {
     "id": "nam_nuong",
     "name": "Nậm Nướng Đà Lạt",
     "province_id": "lam_dong",
     "type": "restaurant",
-    "lat": null,
-    "lon": null,
+    "lat": 11.9425409,
+    "lon": 108.430686,
     "opening_hours": {
       "mon": "16:00-23:00",
       "tue": "16:00-23:00",
@@ -102,20 +102,20 @@
       "short": 60,
       "long": 120
     },
-    "price_vnd": null,
+    "price_vnd": 600000,
     "tags": ["restaurant", "bbq", "grilled-food", "local-food"],
     "difficulty": "easy",
     "popularity": null,
     "source": "https://visitlamdong.vn/vi/namnuongdalat",
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-22"
   },
   {
     "id": "bina_bina",
     "name": "Bina Bina - Nhà hàng hấp thủy nhiệt",
     "province_id": "lam_dong",
     "type": "restaurant",
-    "lat": null,
-    "lon": null,
+    "lat": 11.9352617,
+    "lon": 108.4281302,
     "opening_hours": {
       "mon": "11:00-14:00,17:00-22:00",
       "tue": "11:00-14:00,17:00-22:00",
@@ -129,20 +129,20 @@
       "short": 60,
       "long": 120
     },
-    "price_vnd": null,
+    "price_vnd": 300000,
     "tags": ["restaurant", "vietnamese-food", "healthy-food", "family-dining"],
     "difficulty": "easy",
     "popularity": null,
     "source": "https://www.tripadvisor.com.vn/Restaurant_Review-g293922-d28031308-Reviews-Bina_Bina_Nha_Hang_H_p_Thu_Nhi_t-Da_Lat_Lam_Dong_Province.html",
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-22"
   },
   {
     "id": "peach_valley_hotel",
     "name": "Khách sạn Peach Valley",
     "province_id": "lam_dong",
     "type": "hotel",
-    "lat": null,
-    "lon": null,
+    "lat": 11.9433379,
+    "lon": 108.4511033,
     "opening_hours": {
       "mon": "00:00-24:00",
       "tue": "00:00-24:00",
@@ -153,20 +153,20 @@
       "sun": "00:00-24:00"
     },
     "visit_minutes": null,
-    "price_vnd": null,
+    "price_vnd": 500000,
     "tags": ["hotel", "accommodation", "wifi", "parking"],
     "difficulty": "easy",
     "popularity": null,
     "source": "https://www.hoteldalatvalley.com/",
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-22"
   },
   {
     "id": "ngoc_phat_hotel",
     "name": "Khách sạn Ngọc Phát Đà Lạt",
     "province_id": "lam_dong",
     "type": "hotel",
-    "lat": null,
-    "lon": null,
+    "lat": 11.9376231,
+    "lon": 108.4439463,
     "opening_hours": {
       "mon": "00:00-24:00",
       "tue": "00:00-24:00",
@@ -177,20 +177,20 @@
       "sun": "00:00-24:00"
     },
     "visit_minutes": null,
-    "price_vnd": null,
+    "price_vnd": 2200000,
     "tags": ["hotel", "accommodation", "city-center", "lake-view"],
     "difficulty": "easy",
     "popularity": null,
     "source": "https://visitlamdong.vn/vi/ngocphat",
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-22"
   },
   {
     "id": "huyen_179_hotel",
     "name": "Khách sạn Huyền 179",
     "province_id": "lam_dong",
     "type": "hotel",
-    "lat": null,
-    "lon": null,
+    "lat": 11.9444994,
+    "lon": 108.4396596,
     "opening_hours": {
       "mon": "00:00-24:00",
       "tue": "00:00-24:00",
@@ -201,20 +201,20 @@
       "sun": "00:00-24:00"
     },
     "visit_minutes": null,
-    "price_vnd": null,
+    "price_vnd": 500000,
     "tags": ["hotel", "accommodation", "city-center", "budget-hotel"],
     "difficulty": "easy",
     "popularity": null,
     "source": "https://www.facebook.com/kshuyen179/",
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-22"
   },
   {
     "id": "hoan_my_hospital",
     "name": "Bệnh viện Hoàn Mỹ Đà Lạt",
     "province_id": "lam_dong",
     "type": "hospital",
-    "lat": null,
-    "lon": null,
+    "lat": 11.9233148,
+    "lon": 108.4584377,
     "opening_hours": {
       "mon": "00:00-24:00",
       "tue": "00:00-24:00",
@@ -225,20 +225,20 @@
       "sun": "00:00-24:00"
     },
     "visit_minutes": null,
-    "price_vnd": null,
+    "price_vnd": 0,
     "tags": ["hospital", "healthcare", "emergency", "medical-service"],
     "difficulty": "easy",
     "popularity": null,
     "source": "https://www.vietnamtourism.com/en/health/da-lat",
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-22"
   },
   {
     "id": "lam_dong_general_hospital",
     "name": "Bệnh viện Đa khoa tỉnh Lâm Đồng",
     "province_id": "lam_dong",
     "type": "hospital",
-    "lat": null,
-    "lon": null,
+    "lat": 11.945645,
+    "lon": 108.4305924,
     "opening_hours": {
       "mon": "00:00-24:00",
       "tue": "00:00-24:00",
@@ -249,12 +249,1134 @@
       "sun": "00:00-24:00"
     },
     "visit_minutes": null,
-    "price_vnd": null,
+    "price_vnd": 0,
     "tags": ["hospital", "healthcare", "emergency", "public-hospital"],
     "difficulty": "easy",
     "popularity": null,
     "source": "https://www.vietnamtourism.com/en/health/da-lat",
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-22"
+  },
+
+  {
+    "id": "vinh_ha_long",
+    "name": "Vịnh Hạ Long",
+    "province_id": "quang_ninh",
+    "type": "attraction",
+    "lat": 20.8434653,
+    "lon": 107.1496281,
+    "opening_hours": {
+      "mon": "06:30-18:30",
+      "tue": "06:30-18:30",
+      "wed": "06:30-18:30",
+      "thu": "06:30-18:30",
+      "fri": "06:30-18:30",
+      "sat": "06:30-18:30",
+      "sun": "06:30-18:30"
+    },
+    "visit_minutes": {
+      "short": 240,
+      "long": 480
+    },
+    "price_vnd": 310000,
+    "tags": ["outdoor", "nature", "bay", "sightseeing", "cruise", "photography"],
+    "difficulty": "easy",
+    "popularity": null,
+    "source": "https://www.dulichhalong.net/vinh-ha-long/",
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "bao_tang_quang_ninh",
+    "name": "Bảo tàng Quảng Ninh",
+    "province_id": "quang_ninh",
+    "type": "attraction",
+    "lat": 20.9487077,
+    "lon": 107.097508,
+    "opening_hours": {
+      "mon": "08:00-17:00",
+      "tue": "08:00-17:00",
+      "wed": "08:00-17:00",
+      "thu": "08:00-17:00",
+      "fri": "08:00-17:00",
+      "sat": "08:00-17:00",
+      "sun": "08:00-17:00"
+    },
+    "visit_minutes": {
+      "short": 90,
+      "long": 150
+    },
+    "price_vnd": 400000,
+    "tags": ["indoor", "museum", "history", "culture", "architecture", "photography"],
+    "difficulty": "easy",
+    "popularity": null,
+    "source": "https://baotangthuvienquangninh.vn/vi",
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "sun_world_ha_long",
+    "name": "Sun World Ha Long",
+    "province_id": "quang_ninh",
+    "type": "attraction",
+    "lat": 20.955588,
+    "lon": 107.0493252,
+    "opening_hours": {
+      "mon": "09:00-18:00",
+      "tue": "09:00-18:00",
+      "wed": "09:00-18:00",
+      "thu": "09:00-18:00",
+      "fri": "09:00-18:00",
+      "sat": "09:00-20:00",
+      "sun": "09:00-20:00"
+    },
+    "visit_minutes": {
+      "short": 240,
+      "long": 420
+    },
+    "price_vnd": 350000,
+    "tags": ["indoor", "outdoor", "amusement-park", "cable-car", "family-friendly", "entertainment"],
+    "difficulty": "easy",
+    "popularity": null,
+    "source": "https://sunworld.vn/vi/ha-long",
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "dao_tuan_chau",
+    "name": "Đảo Tuần Châu",
+    "province_id": "quang_ninh",
+    "type": "attraction",
+    "lat": 20.9281396,
+    "lon": 106.9854041,
+    "opening_hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "visit_minutes": {
+      "short": 180,
+      "long": 360
+    },
+    "price_vnd": 80000,
+    "tags": ["indoor", "outdoor", "island", "beach", "entertainment", "sightseeing"],
+    "difficulty": "easy",
+    "popularity": null,
+    "source": "https://www.traveloka.com/vi-vn/explore/destination/du-lich-dao-tuan-chau-acc/158549",
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "cong_vien_quoc_te_hoang_gia",
+    "name": "Công viên Quốc tế Hoàng Gia",
+    "province_id": "quang_ninh",
+    "type": "attraction",
+    "lat": 20.9507241,
+    "lon": 107.036131,
+    "opening_hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "visit_minutes": {
+      "short": 60,
+      "long": 120
+    },
+    "price_vnd": 0,
+    "tags": ["outdoor", "walking-street", "architecture", "photography", "nightlife"],
+    "difficulty": "easy",
+    "popularity": null,
+    "source": "https://www.wyndhamhalong.com/vn/blog/cong-vien-quoc-te-hoang-gia-ha-long-dia-diem-giai-tri-hoan-hao.html",
+    "last_verified": null
+  },
+  {
+    "id": "dao_co_to",
+    "name": "Đảo Cô Tô",
+    "province_id": "quang_ninh",
+    "type": "attraction",
+    "lat": 20.9835132,
+    "lon": 107.7590726,
+    "opening_hours": {
+      "mon": "06:00-17:30",
+      "tue": "06:00-17:30",
+      "wed": "06:00-17:30",
+      "thu": "06:00-17:30",
+      "fri": "06:00-17:30",
+      "sat": "06:00-17:30",
+      "sun": "06:00-17:30"
+    },
+    "visit_minutes": {
+      "short": 360,
+      "long": 720
+    },
+    "price_vnd": 250000,
+    "tags": ["outdoor", "island", "beach", "nature", "sightseeing", "photography"],
+    "difficulty": "moderate",
+    "popularity": null,
+    "source": "https://www.traveloka.com/vi-vn/explore/destination/dao-co-to-acc/158649",
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "bv_da_khoa_tinh_quang_ninh",
+    "name": "Bệnh viện Đa khoa tỉnh Quảng Ninh",
+    "province_id": "quang_ninh",
+    "type": "hospital",
+    "lat": 20.9544188,
+    "lon": 107.0883094,
+    "opening_hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "visit_minutes": null,
+    "price_vnd": 0,
+    "tags": ["indoor", "healthcare", "emergency", "public-hospital"],
+    "difficulty": null,
+    "popularity": null,
+    "source": "https://benhviendakhoatpquangninh.vn/",
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "vinpearl_resort_ha_long",
+    "name": "Vinpearl Resort & Spa Ha Long",
+    "province_id": "quang_ninh",
+    "type": "lodging",
+    "lat": 20.9475449,
+    "lon": 107.0246616,
+    "opening_hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "visit_minutes": null,
+    "price_vnd": 3000000,
+    "tags": ["indoor", "outdoor", "resort", "luxury", "beachfront", "spa", "wifi"],
+    "difficulty": null,
+    "popularity": null,
+    "source": "https://vinpearl.com/en/hotels/vinpearl-resort-spa-ha-long",
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "legacy_yen_tu_mgallery",
+    "name": "Legacy Yen Tu - MGallery",
+    "province_id": "quang_ninh",
+    "type": "lodging",
+    "lat": 21.1378083,
+    "lon": 106.7244211,
+    "opening_hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "visit_minutes": null,
+    "price_vnd": 4500000,
+    "tags": ["indoor", "outdoor", "resort", "luxury", "heritage", "wellness", "wifi"],
+    "difficulty": null,
+    "popularity": null,
+    "source": "https://mgallery.accor.com/en/hotels/B1Y7.html?merchantid=seo-maps-VN-B1Y7&sourceid=aw-cen",
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "nha_hang_linh_dan",
+    "name": "Nhà Hàng Linh Đan",
+    "province_id": "quang_ninh",
+    "type": "restaurant",
+    "lat": 20.957109,
+    "lon": 107.0459293,
+    "opening_hours": {
+      "mon": "09:00-21:00",
+      "tue": "09:00-21:00",
+      "wed": "09:00-21:00",
+      "thu": "09:00-21:00",
+      "fri": "08:30-21:00",
+      "sat": "08:30-21:00",
+      "sun": "09:00-21:00"
+    },
+    "visit_minutes": null,
+    "price_vnd": 700000,
+    "tags": ["indoor", "seafood", "local-food", "family-dining", "vietnamese-food"],
+    "difficulty": null,
+    "popularity": null,
+    "source": "https://www.halongbaycruise.vn/duthuyen/guide/linh-dan-restaurant.html",
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "vinh_seafood_restaurant",
+    "name": "Vịnh Seafood Restaurant",
+    "province_id": "quang_ninh",
+    "type": "restaurant",
+    "lat": 20.957595,
+    "lon": 107.0585584,
+    "opening_hours": {
+      "mon": "09:00-23:00",
+      "tue": "09:00-23:00",
+      "wed": "09:00-23:00",
+      "thu": "09:00-23:00",
+      "fri": "09:00-23:00",
+      "sat": "09:00-23:00",
+      "sun": "09:00-23:00"
+    },
+    "visit_minutes": null,
+    "price_vnd": 700000,
+    "tags": ["indoor", "seafood", "local-food", "family-dining"],
+    "difficulty": null,
+    "popularity": null,
+    "source": "https://nhahanghaisanvinh.vn/",
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "nha_hang_canh_gia_quan",
+    "name": "Nhà hàng Cảnh Gia Quán",
+    "province_id": "quang_ninh",
+    "type": "restaurant",
+    "lat": 20.9499509,
+    "lon": 107.0957036,
+    "opening_hours": {
+      "mon": "10:00-23:00",
+      "tue": "10:00-23:00",
+      "wed": "10:00-23:00",
+      "thu": "10:00-23:00",
+      "fri": "10:00-23:00",
+      "sat": "10:00-23:00",
+      "sun": "10:00-23:00"
+    },
+    "visit_minutes": null,
+    "price_vnd": 300000,
+    "tags": ["indoor", "seafood", "local-food", "vietnamese-food", "family-dining"],
+    "difficulty": null,
+    "popularity": null,
+    "source": "https://local.haogiayensao.com/quangninh/?food=canh+gia+quan",
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "the_reed_hotel",
+    "name": "The Reed Hotel",
+    "province_id": "ninh_binh",
+    "type": "lodging",
+    "lat": 20.2711686,
+    "lon": 105.9776378,
+    "opening_hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "visit_minutes": null,
+    "price_vnd": 2000000,
+    "tags": ["indoor", "hotel", "city-center", "business", "wifi", "parking"],
+    "difficulty": null,
+    "popularity": null,
+    "source": "http://thereedhotel.com/",
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "tam_coc_garden_resort",
+    "name": "Tam Coc Garden Resort",
+    "province_id": "ninh_binh",
+    "type": "lodging",
+    "lat": 20.2111238,
+    "lon": 105.9078173,
+    "opening_hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "visit_minutes": null,
+    "price_vnd": 8000000,
+    "tags": ["indoor", "outdoor", "resort", "eco-resort", "nature", "luxury", "wifi"],
+    "difficulty": null,
+    "popularity": null,
+    "source": "https://www.tamcocgarden.com/",
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "nha_hang_duc_de",
+    "name": "Nhà hàng Đức Dê",
+    "province_id": "ninh_binh",
+    "type": "restaurant",
+    "lat": 20.2341599,
+    "lon": 105.968061,
+    "opening_hours": {
+      "mon": "08:00-21:30",
+      "tue": "08:00-21:30",
+      "wed": "08:00-21:30",
+      "thu": "08:00-21:30",
+      "fri": "08:00-21:30",
+      "sat": "08:00-22:00",
+      "sun": "08:00-22:00"
+    },
+    "visit_minutes": null,
+    "price_vnd": 300000,
+    "tags": ["indoor", "local-food", "specialty", "vietnamese-food", "family-dining"],
+    "difficulty": null,
+    "popularity": null,
+    "source": "https://trangandanhthang.vn/nha-hang-duc-de/",
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "nha_hang_chinh_thu",
+    "name": "Nhà hàng Chính Thư",
+    "province_id": "ninh_binh",
+    "type": "restaurant",
+    "lat": 20.2475013,
+    "lon": 105.9343265,
+    "opening_hours": {
+      "mon": "07:00-15:00, 16:30-22:00",
+      "tue": "07:00-15:00, 16:30-22:00",
+      "wed": "07:00-15:00, 16:30-22:00",
+      "thu": "07:00-15:00, 16:30-22:00",
+      "fri": "07:00-15:00, 16:30-22:00",
+      "sat": "07:00-15:00, 16:30-22:00",
+      "sun": "07:00-15:00, 16:30-22:00"
+    },
+    "visit_minutes": null,
+    "price_vnd": 300000,
+    "tags": ["indoor", "local-food", "specialty", "vietnamese-food", "family-dining"],
+    "difficulty": null,
+    "popularity": null,
+    "source": "http://denuichinhthu.vn/",
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "nha_hang_thanh_long",
+    "name": "Nhà hàng Thành Long",
+    "province_id": "ninh_binh",
+    "type": "restaurant",
+    "lat": 20.2647905,
+    "lon": 105.9796243,
+    "opening_hours": {
+      "mon": "09:00-22:00",
+      "tue": "09:00-22:00",
+      "wed": "09:00-22:00",
+      "thu": "09:00-22:00",
+      "fri": "09:00-22:00",
+      "sat": "09:00-22:00",
+      "sun": "09:00-22:00"
+    },
+    "visit_minutes": null,
+    "price_vnd": 500000,
+    "tags": ["indoor", "local-food", "specialty", "vietnamese-food", "family-dining"],
+    "difficulty": null,
+    "popularity": null,
+    "source": "https://nhahangthanhlongninhbinh.com.vn/",
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "trang_an",
+    "name": "Quần thể Danh thắng Tràng An",
+    "province_id": "ninh_binh",
+    "type": "attraction",
+    "lat": 20.2527855,
+    "lon": 105.918304,
+    "opening_hours": {
+      "mon": "07:00-17:00",
+      "tue": "07:00-17:00",
+      "wed": "07:00-17:00",
+      "thu": "07:00-17:00",
+      "fri": "07:00-17:00",
+      "sat": "07:00-17:00",
+      "sun": "07:00-17:00"
+    },
+    "visit_minutes": {
+      "short": 180,
+      "long": 240
+    },
+    "price_vnd": 300000,
+    "tags": ["outdoor", "nature", "boat-tour", "cave", "heritage", "sightseeing", "photography"],
+    "difficulty": "easy",
+    "popularity": null,
+    "source": "https://expresstickets.shop/ve/trang-an-ninh-binh",
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "tam_coc_bich_dong",
+    "name": "Khu du lịch Tam Cốc - Bích Động",
+    "province_id": "ninh_binh",
+    "type": "attraction",
+    "lat": 20.2111238,
+    "lon": 105.9078173,
+    "opening_hours": {
+      "mon": "07:00-17:00",
+      "tue": "07:00-17:00",
+      "wed": "07:00-17:00",
+      "thu": "07:00-17:00",
+      "fri": "07:00-17:00",
+      "sat": "07:00-17:00",
+      "sun": "07:00-17:00"
+    },
+    "visit_minutes": {
+      "short": 150,
+      "long": 240
+    },
+    "price_vnd": 250000,
+    "tags": ["outdoor", "nature", "boat-tour", "pagoda", "sightseeing", "photography"],
+    "difficulty": "easy",
+    "popularity": null,
+    "source": "https://ninhbinhexcursiontour.com/from-hanoi-tam-coc-hoa-lu-mua-caves-full-day-trip/",
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "chua_bai_dinh",
+    "name": "Chùa Bái Đính",
+    "province_id": "ninh_binh",
+    "type": "attraction",
+    "lat": 20.271883,
+    "lon": 105.8610988,
+    "opening_hours": {
+      "mon": "07:00-20:00",
+      "tue": "07:00-20:00",
+      "wed": "07:00-20:00",
+      "thu": "07:00-20:00",
+      "fri": "07:00-20:00",
+      "sat": "07:00-20:00",
+      "sun": "07:00-20:00"
+    },
+    "visit_minutes": {
+      "short": 150,
+      "long": 240
+    },
+    "price_vnd": 0,
+    "tags": ["indoor", "outdoor", "pagoda", "spiritual", "culture", "architecture", "sightseeing"],
+    "difficulty": "easy",
+    "popularity": null,
+    "source": "http://www.chuabaidinhninhbinh.vn/",
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "hang_mua",
+    "name": "Hang Múa",
+    "province_id": "ninh_binh",
+    "type": "attraction",
+    "lat": 20.271883,
+    "lon": 105.8610988,
+    "opening_hours": {
+      "mon": "06:00-19:00",
+      "tue": "06:00-19:00",
+      "wed": "06:00-19:00",
+      "thu": "06:00-19:00",
+      "fri": "06:00-19:00",
+      "sat": "06:00-19:00",
+      "sun": "06:00-19:00"
+    },
+    "visit_minutes": {
+      "short": 90,
+      "long": 150
+    },
+    "price_vnd": 100000,
+    "tags": ["outdoor", "mountain", "hiking", "viewpoint", "photography", "nature"],
+    "difficulty": "moderate",
+    "popularity": null,
+    "source": "https://annamdiscovery.vn/gia-ve-hang-mua-2026-gio-mo-cua-luu-y/",
+    "last_verified": ""
+  },
+  {
+    "id": "co_do_hoa_lu",
+    "name": "Cố đô Hoa Lư",
+    "province_id": "ninh_binh",
+    "type": "attraction",
+    "lat": 20.2559671,
+    "lon": 105.9301466,
+    "opening_hours": {
+      "mon": "07:00-17:00",
+      "tue": "07:00-17:00",
+      "wed": "07:00-17:00",
+      "thu": "07:00-17:00",
+      "fri": "07:00-17:00",
+      "sat": "07:00-17:00",
+      "sun": "07:00-17:00"
+    },
+    "visit_minutes": {
+      "short": 60,
+      "long": 120
+    },
+    "price_vnd": 20000,
+    "tags": ["indoor", "outdoor", "history", "heritage", "culture", "temple", "sightseeing"],
+    "difficulty": "easy",
+    "popularity": null,
+    "source": "https://vinabooker.com/gia-ve-tham-quan-co-do-hoa-lu/",
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "pho_co_hoa_lu",
+    "name": "Phố cổ Hoa Lư",
+    "province_id": "ninh_binh",
+    "type": "attraction",
+    "lat": 20.2648537,
+    "lon": 105.9675756,
+    "opening_hours": {
+      "mon": "07:00-23:00",
+      "tue": "07:00-23:00",
+      "wed": "07:00-23:00",
+      "thu": "07:00-23:00",
+      "fri": "07:00-23:00",
+      "sat": "07:00-23:00",
+      "sun": "07:00-23:00"
+    },
+    "visit_minutes": {
+      "short": 60,
+      "long": 120
+    },
+    "price_vnd": 0,
+    "tags": ["outdoor", "walking-street", "culture", "nightlife", "street-food", "photography"],
+    "difficulty": "easy",
+    "popularity": null,
+    "source": "https://sodulich.ninhbinh.gov.vn/vi/tin-tuc-su-kien/pho-co-hoa-lu-1436.html",
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "vuon_quoc_gia_cuc_phuong",
+    "name": "Vườn Quốc gia Cúc Phương",
+    "province_id": "ninh_binh",
+    "type": "attraction",
+    "lat": 20.3166875,
+    "lon": 105.6083125,
+    "opening_hours": {
+      "mon": "07:00-20:00",
+      "tue": "07:00-20:00",
+      "wed": "07:00-20:00",
+      "thu": "07:00-20:00",
+      "fri": "07:00-20:00",
+      "sat": "07:00-20:00",
+      "sun": "07:00-20:00"
+    },
+    "visit_minutes": {
+      "short": 240,
+      "long": 480
+    },
+    "price_vnd": 60000,
+    "tags": ["outdoor", "national-park", "forest", "trekking", "nature", "wildlife"],
+    "difficulty": "moderate",
+    "popularity": null,
+    "source": "https://vuonquocgiacucphuong.vn/vi/",
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "bv_da_khoa_tinh_ninh_binh",
+    "name": "Bệnh viện Đa khoa tỉnh Ninh Bình",
+    "province_id": "ninh_binh",
+    "type": "hospital",
+    "lat": 20.2445519,
+    "lon": 105.9660491,
+    "opening_hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "visit_minutes": null,
+    "price_vnd": null,
+    "tags": ["indoor", "healthcare", "emergency", "public-hospital"],
+    "difficulty": null,
+    "popularity": null,
+    "source": "https://benhvienninhbinh.vn/",
+    "last_verified": "2026-11-23"
+  },
+  {
+    "id": "bv_quoc_te_thai_nguyen",
+    "name": "Bệnh viện Quốc tế Thái Nguyên",
+    "province_id": "thai_nguyen",
+    "type": "hospital",
+    "lat": 21.5873692,
+    "lon": 105.8297599,
+    "opening_hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "visit_minutes": null,
+    "price_vnd": 0,
+    "tags": ["indoor", "healthcare", "emergency", "public-hospital"],
+    "difficulty": null,
+    "popularity": null,
+    "source": "https://tnh.com.vn/",
+    "last_verified": "2026-11-23"
+  },
+  {
+    "id": "bv_trung_uong_thai_nguyen",
+    "name": "Bệnh viện Trung ương Thái Nguyên",
+    "province_id": "thai_nguyen",
+    "type": "hospital",
+    "lat": 21.587916,
+    "lon": 105.8309401,
+    "opening_hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "visit_minutes": null,
+    "price_vnd": 0,
+    "tags": ["indoor", "healthcare", "emergency", "public-hospital"],
+    "difficulty": null,
+    "popularity": null,
+    "source": "http://www.bvdktuthainguyen.gov.vn/",
+    "last_verified": "2026-11-23"
+  },
+
+  {
+    "id": "bao_tang_van_hoa_cac_dan_toc_viet_nam",
+    "name": "Bảo tàng Văn hóa các Dân tộc Việt Nam",
+    "province_id": "thai_nguyen",
+    "type": "attraction",
+    "lat": 21.5967818,
+    "lon": 105.8384717,
+    "opening_hours": {
+      "mon": "07:30-11:30, 13:00-17:00",
+      "tue": "07:30-11:30, 13:00-17:00",
+      "wed": "07:30-11:30, 13:00-17:00",
+      "thu": "07:30-11:30, 13:00-17:00",
+      "fri": "07:30-11:30, 13:00-17:00",
+      "sat": "07:30-11:30, 13:00-17:00",
+      "sun": "07:30-11:30, 13:00-17:00"
+    },
+    "visit_minutes": null,
+    "price_vnd": 30000,
+    "tags": ["indoor","culture","museum","education","history","ethnic-culture","exhibition","sightseeing"],
+    "difficulty": null,
+    "popularity": null,
+    "source": "http://mcve.org.vn/",
+    "last_verified": "2026-11-23"
+  },
+
+  {
+    "id": "ho_nui_coc",
+    "name": "Khu du lịch Hồ Núi Cốc",
+    "province_id": "thai_nguyen",
+    "type": "attraction",
+    "lat": 21.5815814,
+    "lon": 101.2145569,
+    "opening_hours": {
+      "mon": "08:00-18:00",
+      "tue": "08:00-18:00",
+      "wed": "08:00-18:00",
+      "thu": "08:00-18:00",
+      "fri": "08:00-18:00",
+      "sat": "08:00-18:00",
+      "sun": "08:00-18:00"
+    },
+    "visit_minutes": 180,
+    "price_vnd": 130000,
+    "tags": ["outdoor", "nature", "lake","sightseeing","entertainment","boat-tour","water-park","family-friendly"],
+    "difficulty": null,
+    "popularity": null,
+    "source": "https://dulichhonuicoc.vn/",
+    "last_verified": "2026-11-26"
+  },
+  {
+    "id": "khu_sinh_thai_nha_toi",
+    "name": "Khu sinh thái Nhà Tôi",
+    "province_id": "thai_nguyen",
+    "type": "attraction",
+    "lat": 21.6388412,
+    "lon": 105.7775619,
+    "opening_hours": {
+      "mon": "05:30-22:00",
+      "tue": "05:30-22:00",
+      "wed": "05:30-22:00",
+      "thu": "05:30-22:00",
+      "fri": "05:30-22:00",
+      "sat": "05:30-22:00",
+      "sun": "05:30-22:00"
+    },
+    "visit_minutes": 120,
+    "price_vnd": 50000,
+    "tags": ["outdoor","nature","ecological-tourism","swimming","team-building","recreation","relaxation","family-friendly"],
+    "difficulty": null,
+    "popularity": null,
+    "source": "https://khusinhthainhatoi.com/",
+    "last_verified": "2026-11-26"
+  },
+  {
+    "id": "x_hotel_thai_nguyen",
+    "name": "X Hotel Thái Nguyên",
+    "province_id": "thai_nguyen",
+    "type": "hotel",
+    "lat": 21.5848341,
+    "lon": 105.8266159,
+    "opening_hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "visit_minutes": null,
+    "price_vnd": 1500000,
+    "tags": ["indoor","hotel","accommodation","relaxation","swimming-pool","restaurant","garden"],
+    "difficulty": null,
+    "popularity": null,
+    "source": "https://xhotel.vn/",
+    "last_verified": "2026-11-26"
+  },
+  {
+    "id": "may_plaza_hotel",
+    "name": "May Plaza Hotel",
+    "province_id": "thai_nguyen",
+    "type": "hotel",
+    "lat": 21.5782896,
+    "lon": 105.8327195,
+    "opening_hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "visit_minutes": null,
+    "price_vnd": null,
+    "tags": ["indoor","hotel","accommodation","relaxation","business","conference","restaurant","spa"],
+    "difficulty": null,
+    "popularity": null,
+    "source": "https://mayplazahotel.com/",
+    "last_verified": "2026-11-26"
+  },
+  {
+    "id": "seoul_boss_thai_nguyen",
+    "name": "Seoul Boss Thái Nguyên",
+    "province_id": "thai_nguyen",
+    "type": "restaurant",
+    "lat": 21.5954476,
+    "lon": 105.8313657,
+    "opening_hours": {
+      "mon": "08:00-22:00",
+      "tue": "08:00-22:00",
+      "wed": "08:00-22:00",
+      "thu": "08:00-22:00",
+      "fri": "08:00-22:00",
+      "sat": "08:00-22:00",
+      "sun": "08:00-22:00"
+    },
+    "visit_minutes": 90,
+    "price_vnd": 300000,
+    "tags": ["indoor","restaurant","korean-food","korean-bbq","grilled-meat","dining","group-friendly"],
+    "difficulty": null,
+    "popularity": null,
+    "source": "https://www.facebook.com/seoulboss.thainguyen/",
+    "last_verified": "2026-11-26"
+  },
+  {
+    "id": "nhiep_cuon_minh_cau",
+    "name": "Nhiếp Cuốn - Minh Cầu",
+    "province_id": "thai_nguyen",
+    "type": "restaurant",
+    "lat": 21.5899489,
+    "lon": 105.8368952,
+    "opening_hours": {
+      "mon": "10:00-14:00, 17:00-22:00",
+      "tue": "10:00-14:00, 17:00-22:00",
+      "wed": "10:00-14:00, 17:00-22:00",
+      "thu": "10:00-14:00, 17:00-22:00",
+      "fri": "10:00-14:00, 17:00-22:00",
+      "sat": "10:00-14:00, 17:00-22:00",
+      "sun": "10:00-14:00, 17:00-22:00"
+    },
+    "visit_minutes": 60,
+    "price_vnd": 200000,
+    "tags": ["indoor","restaurant", "vietnamese-food","local-food","fresh-rolls","dining","family-friendly"],
+    "difficulty": null,
+    "popularity": null,
+    "source": "https://www.facebook.com/Nhiepcuonrautuoi99/",
+    "last_verified": "2026-11-26"
+  },
+  {
+    "id": "dookki_vincom_thai_nguyen",
+    "name": "Dookki Vincom Plaza Thái Nguyên",
+    "province_id": "thai_nguyen",
+    "type": "restaurant",
+    "lat": 21.5908043,
+    "lon": 105.8257536,
+    "opening_hours": {
+      "mon": "10:00-22:00",
+      "tue": "10:00-22:00",
+      "wed": "10:00-22:00",
+      "thu": "10:00-22:00",
+      "fri": "10:00-22:00",
+      "sat": "10:00-22:00",
+      "sun": "10:00-22:00"
+    },
+    "visit_minutes": 90,
+    "price_vnd": null,
+    "tags": ["indoor","restaurant","korean-food","buffet","tteokbokki","hotpot","dining","shopping-mall"],
+    "difficulty": null,
+    "popularity": null,
+    "source": "https://dookkivietnam.com/",
+    "last_verified": "2026-11-26"
+  },
+  {
+    "id": "bv_da_khoa_bac_ninh_so_2",
+    "name": "Bệnh viện Đa khoa Bắc Ninh số 2",
+    "province_id": "bac_ninh",
+    "type": "hospital",
+    "lat": 21.1664784,
+    "lon": 106.0666845,
+    "opening_hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "visit_minutes": null,
+    "price_vnd": 0,
+    "tags": ["indoor","healthcare","hospital","emergency","public-hospital","medical-service"],
+    "difficulty": null,
+    "popularity": null,
+    "source": "https://bvdkbacninh.vn/",
+    "last_verified": "2026-11-26"
+  },
+  {
+    "id": "bv_quan_y_110",
+    "name": "Bệnh viện Quân y 110",
+    "province_id": "bac_ninh",
+    "type": "hospital",
+    "lat": 21.1979876,
+    "lon": 106.0901203,
+    "opening_hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "visit_minutes": null,
+    "price_vnd": null,
+    "tags": ["indoor","healthcare","hospital","emergency","military-hospital","medical-service"],
+    "difficulty": null,
+    "popularity": null,
+    "source": null,
+    "last_verified": "2026-11-26"
+  },
+  {
+    "id": "cong_vien_ho_dieu_hoa_van_mieu",
+    "name": "Công viên Hồ điều hòa Văn Miếu",
+    "province_id": "bac_ninh",
+    "type": "attraction",
+    "lat": 21.165292,
+    "lon": 106.0665399,
+    "opening_hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "visit_minutes": 60,
+    "price_vnd": 0,
+    "tags": ["outdoor","park","nature","lake","walking","relaxation","sightseeing","family-friendly"],
+    "difficulty": null,
+    "popularity": null,
+    "source": null,
+    "last_verified": "2026-11-26"
+  },
+  {
+    "id": "thu_thuy_ecolodge",
+    "name": "Thu Thủy Ecolodge",
+    "province_id": "bac_ninh",
+    "type": "attraction",
+    "lat": 21.0976806,
+    "lon": 105.9603617,
+    "opening_hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "visit_minutes": 180,
+    "price_vnd": null,
+    "tags": ["outdoor","ecological-tourism","nature","recreation","swimming","team-building","relaxation","family-friendly"],
+    "difficulty": null,
+    "popularity": null,
+    "source": "https://dulichbacninh.gov.vn/",
+    "last_verified": "2026-11-26"
+  },
+  {
+    "id": "khu_du_lich_sinh_thai_suoi_mo",
+    "name": "Khu du lịch sinh thái Suối Mỡ",
+    "province_id": "bac_ninh",
+    "type": "attraction",
+    "lat": 21.2748406,
+    "lon": 106.4844499,
+    "opening_hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "visit_minutes": 180,
+    "price_vnd": 30000,
+    "tags": ["outdoor","nature","ecological-tourism","waterfall","stream","sightseeing","hiking","relaxation"],
+    "difficulty": null,
+    "popularity": null,
+    "source": "https://dulichbacninh.gov.vn/",
+    "last_verified": "2026-11-26"
+  },
+  {
+    "id": "vinpearl_hotel_bac_ninh",
+    "name": "Vinpearl Hotel Bắc Ninh",
+    "province_id": "bac_ninh",
+    "type": "hotel",
+    "lat": 21.1773145,
+    "lon": 106.0741068,
+    "opening_hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "visit_minutes": null,
+    "price_vnd": 4000000,
+    "tags": ["indoor","hotel","accommodation","luxury","relaxation","swimming-pool","spa","restaurant"],
+    "difficulty": null,
+    "popularity": null,
+    "source": "https://vinpearl.com/",
+    "last_verified": "2026-11-26"
+  },
+  {
+    "id": "muong_thanh_luxury_bac_ninh",
+    "name": "Mường Thanh Luxury Bắc Ninh",
+    "province_id": "bac_ninh",
+    "type": "hotel",
+    "lat": 21.1831223,
+    "lon": 106.0659652,
+    "opening_hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "visit_minutes": null,
+    "price_vnd": 1500000,
+    "tags": ["indoor","hotel","accommodation","luxury","business","conference","restaurant","relaxation"],
+    "difficulty": null,
+    "popularity": null,
+    "source": "https://muongthanh.com/",
+    "last_verified": "2026-11-26"
+  },
+  {
+    "id": "jinro_bbq_bac_ninh",
+    "name": "JINRO BBQ Bắc Ninh",
+    "province_id": "bac_ninh",
+    "type": "restaurant",
+    "lat": 21.1775692,
+    "lon": 106.074968,
+    "opening_hours": {
+      "mon": "11:00-14:00, 17:00-23:00",
+      "tue": "11:00-14:00, 17:00-23:00",
+      "wed": "11:00-14:00, 17:00-23:00",
+      "thu": "11:00-14:00, 17:00-23:00",
+      "fri": "11:00-14:00, 17:00-23:00",
+      "sat": "11:00-14:00, 17:00-23:00",
+      "sun": "11:00-14:00, 17:00-23:00"
+    },
+    "visit_minutes": 90,
+    "price_vnd": 400000,
+    "tags": ["indoor","restaurant","korean-food","korean-bbq","buffet","grilled-meat","dining","group-friendly"],
+    "difficulty": null,
+    "popularity": null,
+    "source": "https://litt.ly/jinrobbqvn",
+    "last_verified": "2026-11-26"
+  },
+  {
+    "id": "joythai_bac_ninh",
+    "name": "JoyThai - Thai Cuisine & Hotpot",
+    "province_id": "bac_ninh",
+    "type": "restaurant",
+    "lat": 21.1752203,
+    "lon": 106.0643164,
+    "opening_hours": {
+      "mon": "10:00-14:00, 17:00-22:00",
+      "tue": "10:00-14:00, 17:00-22:00",
+      "wed": "10:00-14:00, 17:00-22:00",
+      "thu": "10:00-14:00, 17:00-22:00",
+      "fri": "10:00-14:00, 17:00-22:00",
+      "sat": "10:00-14:00, 17:00-22:00",
+      "sun": "10:00-14:00, 17:00-22:00"
+    },
+    "visit_minutes": 90,
+    "price_vnd": 300000,
+    "tags": ["indoor","restaurant","thai-food","hotpot","spicy-food","dining","group-friendly"],
+    "difficulty": null,
+    "popularity": null,
+    "source": "https://www.facebook.com/joythaivn",
+    "last_verified": "2026-11-26"
+  },
+  {
+    "id": "nuong_vu_gia_kinh_bac_1",
+    "name": "Nướng Vũ Gia Kinh Bắc 1",
+    "province_id": "bac_ninh",
+    "type": "restaurant",
+    "lat": 21.187858,
+    "lon": 106.0761446,
+    "opening_hours": {
+      "mon": "10:30-14:00, 17:00-23:00",
+      "tue": "10:30-14:00, 17:00-23:00",
+      "wed": "10:30-14:00, 17:00-23:00",
+      "thu": "10:30-14:00, 17:00-23:00",
+      "fri": "10:30-14:00, 17:00-23:00",
+      "sat": "10:30-14:00, 17:00-23:00",
+      "sun": "10:30-14:00, 17:00-23:00"
+    },
+    "visit_minutes": 90,
+    "price_vnd": 200000,
+    "tags": ["indoor","restaurant","vietnamese-food","bbq","hotpot","grilled-meat","dining","group-friendly"],
+    "difficulty": null,
+    "popularity": null,
+    "source": "https://www.facebook.com/p/N%C6%B0%E1%BB%9Bng-V%C5%A9-Gia-Kinh-B%E1%BA%AFc-100089854752582/",
+    "last_verified": "2026-11-26"
   }
 ]
 

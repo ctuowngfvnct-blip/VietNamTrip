@@ -9,5 +9,609 @@
     "storm_flood_risk": null,
     "crowd_level": null,
     "price_level": null
+  },
+
+  {
+    "province_id": "lam_dong",
+    "month": 2,
+    "avg_temp_c": 18.1,
+    "rain_mm": 15,
+    "season": null,
+    "storm_flood_risk": null,
+    "crowd_level": null,
+    "price_level": null
+  },
+
+  {
+    "province_id": "lam_dong",
+    "month": 3,
+    "avg_temp_c": 19.5,
+    "rain_mm": 30,
+    "season": null,
+    "storm_flood_risk": null,
+    "crowd_level": null,
+    "price_level": null
+  },
+
+  {
+    "province_id": "lam_dong",
+    "month": 4,
+    "avg_temp_c": 20.8,
+    "rain_mm": 50,
+    "season": null,
+    "storm_flood_risk": null,
+    "crowd_level": null,
+    "price_level": null
+  },
+  {
+    "province_id": "lam_dong",
+    "month": 5,
+    "avg_temp_c": 20.9,
+    "rain_mm": 100,
+    "season": null,
+    "storm_flood_risk": null,
+    "crowd_level": null,
+    "price_level": null
+  },
+
+  {
+    "province_id": "lam_dong",
+    "month": 6,
+    "avg_temp_c": 20.7,
+    "rain_mm": 150,
+    "season": null,
+    "storm_flood_risk": null,
+    "crowd_level": null,
+    "price_level": null
+  },
+
+  {
+    "province_id": "lam_dong",
+    "month": 7,
+    "avg_temp_c": 20.4,
+    "rain_mm": 200,
+    "season": null,
+    "storm_flood_risk": null,
+    "crowd_level": null,
+    "price_level": null
+  },
+
+  {
+    "province_id": "lam_dong",
+    "month": 8,
+    "avg_temp_c": 20.3,
+    "rain_mm": 200,
+    "season": null,
+    "storm_flood_risk": null,
+    "crowd_level": null,
+    "price_level": null
+  },
+
+  {
+    "province_id": "lam_dong",
+    "month": 9,
+    "avg_temp_c": 20.2,
+    "rain_mm": 150,
+    "season": null,
+    "storm_flood_risk": null,
+    "crowd_level": null,
+    "price_level": null
+  },
+
+  {
+    "province_id": "lam_dong",
+    "month": 10,
+    "avg_temp_c": 20.1,
+    "rain_mm": 100,
+    "season": null,
+    "storm_flood_risk": null,
+    "crowd_level": null,
+    "price_level": null
+  },
+
+  {
+    "province_id": "lam_dong",
+    "month": 11,
+    "avg_temp_c": 19.5,
+    "rain_mm": 50,
+    "season": null,
+    "storm_flood_risk": null,
+    "crowd_level": null,
+    "price_level": null
+  },
+
+  {
+    "province_id": "lam_dong",
+    "month": 12,
+    "avg_temp_c": 18.3,
+    "rain_mm": 15,
+    "season": null,
+    "storm_flood_risk": null,
+    "crowd_level": null,
+    "price_level": null
+  },
+
+  {
+    "province_id": "quang_binh",
+    "month": 1,
+    "avg_temp_c": 15.9,
+    "rain_mm": 139,
+    "season": "dry",
+    "storm_flood_risk": "low",
+    "crowd_level": "medium",
+    "price_level": "medium"
+  },
+  {
+    "province_id": "quang_binh",
+    "month": 2,
+    "avg_temp_c": 17.2,
+    "rain_mm": 100,
+    "season": "dry",
+    "storm_flood_risk": "low",
+    "crowd_level": "high",
+    "price_level": "high"
+  },
+  {
+    "province_id": "quang_binh",
+    "month": 3,
+    "avg_temp_c": 20.9,
+    "rain_mm": 106,
+    "season": "dry",
+    "storm_flood_risk": "low",
+    "crowd_level": "medium",
+    "price_level": "medium"
+  },
+  {
+    "province_id": "quang_binh",
+    "month": 4,
+    "avg_temp_c": 23.6,
+    "rain_mm": 107,
+    "season": "dry",
+    "storm_flood_risk": "low",
+    "crowd_level": "medium",
+    "price_level": "medium"
+  },
+  {
+    "province_id": "quang_binh",
+    "month": 5,
+    "avg_temp_c": 25.4,
+    "rain_mm": 139,
+    "season": "dry",
+    "storm_flood_risk": "medium",
+    "crowd_level": "medium",
+    "price_level": "medium"
+  },
+  {
+    "province_id": "quang_binh",
+    "month": 6,
+    "avg_temp_c": 26.2,
+    "rain_mm": 68,
+    "season": "dry",
+    "storm_flood_risk": "medium",
+    "crowd_level": "high",
+    "price_level": "high"
+  },
+  {
+    "province_id": "quang_binh",
+    "month": 7,
+    "avg_temp_c": 25.2,
+    "rain_mm": 218,
+    "season": "wet",
+    "storm_flood_risk": "medium",
+    "crowd_level": "high",
+    "price_level": "high"
+  },
+  {
+    "province_id": "quang_binh",
+    "month": 8,
+    "avg_temp_c": 25.1,
+    "rain_mm": 152,
+    "season": "wet",
+    "storm_flood_risk": "medium",
+    "crowd_level": "high",
+    "price_level": "high"
+  },
+  {
+    "province_id": "quang_binh",
+    "month": 9,
+    "avg_temp_c": 23.8,
+    "rain_mm": 411,
+    "season": "wet",
+    "storm_flood_risk": "high",
+    "crowd_level": "low",
+    "price_level": "low"
+  },
+  {
+    "province_id": "quang_binh",
+    "month": 10,
+    "avg_temp_c": 21.1,
+    "rain_mm": 695,
+    "season": "wet",
+    "storm_flood_risk": "high",
+    "crowd_level": "low",
+    "price_level": "low"
+  },
+  {
+    "province_id": "quang_binh",
+    "month": 11,
+    "avg_temp_c": 19.3,
+    "rain_mm": 325,
+    "season": "wet",
+    "storm_flood_risk": "high",
+    "crowd_level": "low",
+    "price_level": "low"
+  },
+  {
+    "province_id": "quang_binh",
+    "month": 12,
+    "avg_temp_c": 15.8,
+    "rain_mm": 234,
+    "season": "wet",
+    "storm_flood_risk": "medium",
+    "crowd_level": "low",
+    "price_level": "low"
+  },
+
+  {
+    "province_id": "ninh_binh",
+    "month": 1,
+    "avg_temp_c": 17.7,
+    "rain_mm": 71,
+    "season": "dry",
+    "storm_flood_risk": "low",
+    "crowd_level": "medium",
+    "price_level": "medium"
+  },
+  {
+    "province_id": "ninh_binh",
+    "month": 2,
+    "avg_temp_c": 18.8,
+    "rain_mm": 44,
+    "season": "dry",
+    "storm_flood_risk": "low",
+    "crowd_level": "high",
+    "price_level": "high"
+  },
+  {
+    "province_id": "ninh_binh",
+    "month": 3,
+    "avg_temp_c": 22.3,
+    "rain_mm": 69,
+    "season": "dry",
+    "storm_flood_risk": "low",
+    "crowd_level": "high",
+    "price_level": "medium"
+  },
+  {
+    "province_id": "ninh_binh",
+    "month": 4,
+    "avg_temp_c": 25.2,
+    "rain_mm": 103,
+    "season": "wet",
+    "storm_flood_risk": "low",
+    "crowd_level": "medium",
+    "price_level": "medium"
+  },
+  {
+    "province_id": "ninh_binh",
+    "month": 5,
+    "avg_temp_c": 28.2,
+    "rain_mm": 198,
+    "season": "wet",
+    "storm_flood_risk": "medium",
+    "crowd_level": "high",
+    "price_level": "high"
+  },
+  {
+    "province_id": "ninh_binh",
+    "month": 6,
+    "avg_temp_c": 30.1,
+    "rain_mm": 185,
+    "season": "wet",
+    "storm_flood_risk": "medium",
+    "crowd_level": "high",
+    "price_level": "high"
+  },
+  {
+    "province_id": "ninh_binh",
+    "month": 7,
+    "avg_temp_c": 29.4,
+    "rain_mm": 329,
+    "season": "wet",
+    "storm_flood_risk": "high",
+    "crowd_level": "medium",
+    "price_level": "medium"
+  },
+  {
+    "province_id": "ninh_binh",
+    "month": 8,
+    "avg_temp_c": 28.6,
+    "rain_mm": 357,
+    "season": "wet",
+    "storm_flood_risk": "high",
+    "crowd_level": "low",
+    "price_level": "medium"
+  },
+  {
+    "province_id": "ninh_binh",
+    "month": 9,
+    "avg_temp_c": 27.4,
+    "rain_mm": 330,
+    "season": "wet",
+    "storm_flood_risk": "high",
+    "crowd_level": "low",
+    "price_level": "low"
+  },
+  {
+    "province_id": "ninh_binh",
+    "month": 10,
+    "avg_temp_c": 24.7,
+    "rain_mm": 211,
+    "season": "wet",
+    "storm_flood_risk": "medium",
+    "crowd_level": "medium",
+    "price_level": "medium"
+  },
+  {
+    "province_id": "ninh_binh",
+    "month": 11,
+    "avg_temp_c": 22.5,
+    "rain_mm": 77,
+    "season": "dry",
+    "storm_flood_risk": "low",
+    "crowd_level": "high",
+    "price_level": "medium"
+  },
+  {
+    "province_id": "ninh_binh",
+    "month": 12,
+    "avg_temp_c": 18.0,
+    "rain_mm": 44,
+    "season": "dry",
+    "storm_flood_risk": "low",
+    "crowd_level": "medium",
+    "price_level": "medium"
+  },
+
+    {
+    "province_id": "thai_nguyen",
+    "month": 1,
+    "avg_temp_c": 15.5,
+    "rain_mm": 17.7,
+    "season": "dry",
+    "storm_flood_risk": "low",
+    "crowd_level": "medium",
+    "price_level": "medium"
+  },
+  {
+    "province_id": "thai_nguyen",
+    "month": 2,
+    "avg_temp_c": 17.5,
+    "rain_mm": 37.7,
+    "season": "dry",
+    "storm_flood_risk": "low",
+    "crowd_level": "high",
+    "price_level": "high"
+  },
+  {
+    "province_id": "thai_nguyen",
+    "month": 3,
+    "avg_temp_c": 19.8,
+    "rain_mm": 49.3,
+    "season": "dry",
+    "storm_flood_risk": "low",
+    "crowd_level": "high",
+    "price_level": "medium"
+  },
+  {
+    "province_id": "thai_nguyen",
+    "month": 4,
+    "avg_temp_c": 23.6,
+    "rain_mm": 96,
+    "season": "wet",
+    "storm_flood_risk": "low",
+    "crowd_level": "medium",
+    "price_level": "medium"
+  },
+  {
+    "province_id": "thai_nguyen",
+    "month": 5,
+    "avg_temp_c": 27.2,
+    "rain_mm": 236.7,
+    "season": "wet",
+    "storm_flood_risk": "medium",
+    "crowd_level": "medium",
+    "price_level": "medium"
+  },
+  {
+    "province_id": "thai_nguyen",
+    "month": 6,
+    "avg_temp_c": 28.5,
+    "rain_mm": 327.5,
+    "season": "wet",
+    "storm_flood_risk": "high",
+    "crowd_level": "medium",
+    "price_level": "medium"
+  },
+  {
+    "province_id": "thai_nguyen",
+    "month": 7,
+    "avg_temp_c": 28.7,
+    "rain_mm": 408.5,
+    "season": "wet",
+    "storm_flood_risk": "high",
+    "crowd_level": "low",
+    "price_level": "low"
+  },
+  {
+    "province_id": "thai_nguyen",
+    "month": 8,
+    "avg_temp_c": 28.4,
+    "rain_mm": 405,
+    "season": "wet",
+    "storm_flood_risk": "high",
+    "crowd_level": "low",
+    "price_level": "low"
+  },
+  {
+    "province_id": "thai_nguyen",
+    "month": 9,
+    "avg_temp_c": 27.3,
+    "rain_mm": 197,
+    "season": "wet",
+    "storm_flood_risk": "high",
+    "crowd_level": "medium",
+    "price_level": "medium"
+  },
+  {
+    "province_id": "thai_nguyen",
+    "month": 10,
+    "avg_temp_c": 24.5,
+    "rain_mm": 90.3,
+    "season": "dry",
+    "storm_flood_risk": "medium",
+    "crowd_level": "medium",
+    "price_level": "medium"
+  },
+  {
+    "province_id": "thai_nguyen",
+    "month": 11,
+    "avg_temp_c": 21,
+    "rain_mm": 37.2,
+    "season": "dry",
+    "storm_flood_risk": "low",
+    "crowd_level": "medium",
+    "price_level": "medium"
+  },
+  {
+    "province_id": "thai_nguyen",
+    "month": 12,
+    "avg_temp_c": 17.7,
+    "rain_mm": 26.1,
+    "season": "dry",
+    "storm_flood_risk": "low",
+    "crowd_level": "medium",
+    "price_level": "medium"
+  },
+
+  {
+    "province_id": "bac_ninh",
+    "month": 1,
+    "avg_temp_c": 16.6,
+    "rain_mm": 44,
+    "season": "dry",
+    "storm_flood_risk": "low",
+    "crowd_level": "medium",
+    "price_level": "medium"
+  },
+  {
+    "province_id": "bac_ninh",
+    "month": 2,
+    "avg_temp_c": 18.4,
+    "rain_mm": 35,
+    "season": "dry",
+    "storm_flood_risk": "low",
+    "crowd_level": "high",
+    "price_level": "high"
+  },
+  {
+    "province_id": "bac_ninh",
+    "month": 3,
+    "avg_temp_c": 21.2,
+    "rain_mm": 61,
+    "season": "dry",
+    "storm_flood_risk": "low",
+    "crowd_level": "high",
+    "price_level": "medium"
+  },
+  {
+    "province_id": "bac_ninh",
+    "month": 4,
+    "avg_temp_c": 25.1,
+    "rain_mm": 99,
+    "season": "dry",
+    "storm_flood_risk": "low",
+    "crowd_level": "medium",
+    "price_level": "medium"
+  },
+  {
+    "province_id": "bac_ninh",
+    "month": 5,
+    "avg_temp_c": 28.0,
+    "rain_mm": 257,
+    "season": "wet",
+    "storm_flood_risk": "medium",
+    "crowd_level": "medium",
+    "price_level": "medium"
+  },
+  {
+    "province_id": "bac_ninh",
+    "month": 6,
+    "avg_temp_c": 29.7,
+    "rain_mm": 290,
+    "season": "wet",
+    "storm_flood_risk": "high",
+    "crowd_level": "medium",
+    "price_level": "medium"
+  },
+  {
+    "province_id": "bac_ninh",
+    "month": 7,
+    "avg_temp_c": 29.7,
+    "rain_mm": 316,
+    "season": "wet",
+    "storm_flood_risk": "high",
+    "crowd_level": "low",
+    "price_level": "low"
+  },
+  {
+    "province_id": "bac_ninh",
+    "month": 8,
+    "avg_temp_c": 29.0,
+    "rain_mm": 369,
+    "season": "wet",
+    "storm_flood_risk": "high",
+    "crowd_level": "low",
+    "price_level": "low"
+  },
+  {
+    "province_id": "bac_ninh",
+    "month": 9,
+    "avg_temp_c": 27.9,
+    "rain_mm": 240,
+    "season": "wet",
+    "storm_flood_risk": "high",
+    "crowd_level": "medium",
+    "price_level": "medium"
+  },
+  {
+    "province_id": "bac_ninh",
+    "month": 10,
+    "avg_temp_c": 25.5,
+    "rain_mm": 116,
+    "season": "wet",
+    "storm_flood_risk": "medium",
+    "crowd_level": "medium",
+    "price_level": "medium"
+  },
+  {
+    "province_id": "bac_ninh",
+    "month": 11,
+    "avg_temp_c": 22.0,
+    "rain_mm": 61,
+    "season": "dry",
+    "storm_flood_risk": "low",
+    "crowd_level": "medium",
+    "price_level": "medium"
+  },
+  {
+    "province_id": "bac_ninh",
+    "month": 12,
+    "avg_temp_c": 18.0,
+    "rain_mm": 37,
+    "season": "dry",
+    "storm_flood_risk": "low",
+    "crowd_level": "medium",
+    "price_level": "medium"
   }
 ]
